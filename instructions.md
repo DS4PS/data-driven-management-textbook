@@ -10,6 +10,9 @@ In general, I would recomment approaching the assignment as an opportunity to ma
 
 Your chapter should have three parts:
 
+---
+
+
 ## Topic Overview (approximately 1-3 pages)
 
 What are the key insights from the readings, and how do they relate to building data-driven organizations? 
@@ -20,10 +23,17 @@ Make sure to reference the evidence and data the authors use to support their ar
 
 Go beyond a summary and offer your own analysis of how the material helps us build data-driven organizations, including some framework for best practices or things to consider. 
 
+---
+
+
+
 
 ## Summaries (approximately 0.5 pages each)
 
 Provide summaries of key arguments and insights provided in each chapter or article you were responsible for. This should be short, typically about half a page. Summaries will vary by content - sometime content is best organized with a few paragraphs of text, others with itemized lists, and in other cases you might want to include graphics or diagrams illustrate content. 
+
+---
+
 
 
 ## Video and Discussion Points
@@ -45,6 +55,11 @@ Paste this text into your markdown document, and it will add the video to your p
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VVRHTF5Ikro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
+
+
+
 ## Adding Images
 
 If you want to include images you need to add the image file to the [images folder](https://github.com/DS4PS/data-driven-management-textbook/tree/master/images) in this repository. Web-friendly formats like PNG, JPEG, or GIF are preferred. 
@@ -57,6 +72,10 @@ You will then reference images in text using markdown syntax (see the Markddown 
 ```
 ![iframe](images/iframe.png)
 ```
+
+---
+
+
 
 
 # Teams

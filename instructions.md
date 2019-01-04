@@ -35,7 +35,7 @@ Provide summaries of key arguments and insights provided in each chapter or arti
 
 In YouTube, you will find iframes by clicking on the Share option, and the "Embed" icon.
 
-[iframe](images/iframe.png)
+![iframe](images/iframe.png)
 
 Paste this text into your markdown document, and it will add the video to your page:
 
@@ -54,7 +54,7 @@ You will then reference images in text using markdown syntax (see the Markddown 
 
 
 ```
-[iframe](images/iframe.png)
+![iframe](images/iframe.png)
 ```
 
 

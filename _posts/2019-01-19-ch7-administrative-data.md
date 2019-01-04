@@ -1,5 +1,5 @@
 ---
-title: "Administrative Data"
+title: "Using Administrative Data"
 ---
 
 Using Administrative Data (Team 7)

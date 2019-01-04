@@ -13,7 +13,7 @@ Your chapter should have three parts:
 ---
 
 
-## Topic Overview (approximately 1-3 pages)
+## (1) Topic Overview (approximately 1-3 pages)
 
 What are the key insights from the readings, and how do they relate to building data-driven organizations? 
 
@@ -28,7 +28,7 @@ Go beyond a summary and offer your own analysis of how the material helps us bui
 
 
 
-## Summaries (approximately 0.5 pages each)
+## (2) Summaries (approximately 0.5 pages each)
 
 Provide summaries of key arguments and insights provided in each chapter or article you were responsible for. This should be short, typically about half a page. Summaries will vary by content - sometime content is best organized with a few paragraphs of text, others with itemized lists, and in other cases you might want to include graphics or diagrams illustrate content. 
 
@@ -36,7 +36,7 @@ Provide summaries of key arguments and insights provided in each chapter or arti
 
 
 
-## Video and Discussion Points
+## (3) Video and Discussion Points
 
 1. Record a short 2-5 minute video presenting a key insight or the main take-aways from your section. The video can be of a team member, or a screen shot of power point slides or graphics as you explain your points.  
 2. Upload the video to YouTube, and insert an iframe of the video into your document. 

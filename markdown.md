@@ -1,14 +1,18 @@
-# Data for the Public Good
-
-This is an MPA class 
-
-# Editing Files
-
-# Using Markdown
+---
+title:  "Markdown Guide"
+---
 
 Markdown is a set of simple conventions for formatting text on GitHub. It makes it easy to create professional documents with minimal effort. 
 
-The most useful formatting rules for Markdown are below:
+Here are the most useful formatting rules for Markdown:
+
+
+**TOPICS**
+
+{:.no_toc}
+* TOC
+{:toc}
+
 
 
 ---
@@ -29,7 +33,7 @@ The most useful formatting rules for Markdown are below:
 ###### Heading Six (h6)
 ```
 
-![](images/heading_formats.png)
+![headings](/images/heading_formats.png)
 
 
 ---
@@ -38,13 +42,6 @@ The most useful formatting rules for Markdown are below:
 
 # Text Style
 
-With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. 
-
-Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. 
-
-You can also add a strikethrough to text using a ~~double tilde~~.
-
-
 ```
 With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. 
 
@@ -52,6 +49,12 @@ Of course, you can combine those two formats, with both _**bold and italicized**
 
 You can also add a strikethrough to text using a ~~double tilde~~.
 ```
+
+With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. 
+
+Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. 
+
+You can also add a strikethrough to text using a ~~double tilde~~.
 
 
 
@@ -73,15 +76,19 @@ Create links by wrapping the link text in square brackets [ ], and the URL in ad
 Insert images in a similar way, but add an exclamation mark in front of square brackets ![ ], and the image file name goes in the parentheses ( ). 
 
 ```
-![](image_file.png)
+![alt_text_here](image_file.png)
 ```
+
+The *alt text* appears when the image cannot be located, or is read by devices for the blind when the mouse hovers over the image. It 
 
 It is common practice to place all of the image files in an "assets" or "images" folder to keep your directory tidy. You can reference files inside a folder using the folder name and the forward slash:
 
 ```
-![](images/flower.jpg)
+![a flower](images/flower.jpg)
 ```
-![test1](images/flower.jpg)
+
+![a flower](images/flower.jpg)
+
 
 Or you can link directly to an image online using the URL address of the image:
 
@@ -189,3 +196,6 @@ Or you can link directly to an image online using the URL address of the image:
 ```
 
 ---
+
+
+

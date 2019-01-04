@@ -27,7 +27,7 @@ layout: default
   {{ content }}
   <header><h1>Table of Contents</h1></header>
   {% assign counter = 0 %}
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
   {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
   {% assign counter=counter | plus:1 %}
   <div>

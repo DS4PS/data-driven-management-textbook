@@ -58,6 +58,13 @@ Paste this text into your markdown document, and it will add the video to your p
 ---
 
 
+## (4) Citations and Bibliography
+
+Cite material using the APA in-text citation style, e.g. Johnson (2012, p. 27). 
+
+A bibliography for the assigned readings are already listed on the page shell. 
+
+You are free to include additional material in the chapter if you want to explore beyond the assigned texts or reference other readings from the course. If you do, be sure to add the new sources to the bibliography. 
 
 
 ## Adding Images

@@ -8,7 +8,7 @@ You are responsible for creating chapters that present key insights for each top
 
 In general, I would recomment approaching the assignment as an opportunity to make yourself into an expert on your topic, then sharing your knowledge in a _**clear**_ and _**concise**_ manner with classmates and the general public. Your name will be on each chapter, so submit something that you are willing to own. 
 
-Your chapter should have three parts:
+Your chapter should have four parts:
 
 ---
 

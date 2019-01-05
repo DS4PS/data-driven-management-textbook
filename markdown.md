@@ -201,6 +201,8 @@ Or you can link directly to an image online using the URL address of the image:
 
 
 
+---
+
 # Horizontal Rule
 
 ```

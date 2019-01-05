@@ -10,7 +10,7 @@
  [ ]  Lorna Romero  
  [ ]  William Seeley  
  [ ]  Matthew Simon  
- [ ]  Dennis Stockwell 
+ [ ]  Dennis Stockwell  
  [X]  Justin Stoker  
  [ ]  Lauren Zajac  
  

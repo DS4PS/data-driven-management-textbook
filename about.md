@@ -13,7 +13,7 @@ title: "About"
 
 --- 
 
-This collaborative text was created through efforts of students in the ASU course PAF 586: Data for the Public Good. The class covers topics about the sources and uses of data in modern organizations, with goals of understanding management approaches to:
+This collaborative text was created through efforts of students in the ASU course [PAF 586: Data for the Public Good](assets/Syllabus-PAF-586-Spring-2019.pdf). The class covers topics about the sources and uses of data in modern organizations, with goals of understanding management approaches to:
 
 * Harness large-scale data to inform policy design, increase stakeholder engagement, and improve service delivery.
 * Intelligently consider the social, political, and ethical considerations of data in the public sector. 

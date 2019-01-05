@@ -58,74 +58,7 @@ You can also add a strikethrough to text using a ~~double tilde~~.
 
 
 
-# Hyperlinks
-
-Create links by wrapping the link text in square brackets [ ], and the URL in adjacent parentheses ( ). 
-
-```
-[Google News](https://news.google.com)
-```
-
-[Google News](https://news.google.com)
-
-
-
-
-# Images
-
-Insert images in a similar way, but add an exclamation mark in front of square brackets ![ ], and the image file name goes in the parentheses ( ). 
-
-```
-![alt_text_here](image_file.png)
-```
-
-The *alt text* appears when the image cannot be located, or is read by devices for the blind when the mouse hovers over the image. It 
-
-It is common practice to place all of the image files in an "assets" or "images" folder to keep your directory tidy. You can reference files inside a folder using the folder name and the forward slash:
-
-```
-![a flower](images/flower.jpg)
-```
-
-![a flower](images/flower.jpg)
-
-
-Or you can link directly to an image online using the URL address of the image:
-
-```
-![](https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1507062474/hotel-everest-namche-nepal-mountain-lodge-MOUNTAIN1017.jpg)
-```
-
-![](https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1507062474/hotel-everest-namche-nepal-mountain-lodge-MOUNTAIN1017.jpg)
-
-
-
-
-
-
-# Tables
-
-```
-| Title 1          | Title 2          | Title 3         | Title 4         |
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
-
-```
-
-| Title 1          | Title 2          | Title 3         | Title 4         |
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
-
-
 ---
-
-
 
 # Lists
 
@@ -158,6 +91,85 @@ Or you can link directly to an image online using the URL address of the image:
 3. Third item
     1. First nested item
     2. Second nested item
+
+
+---
+
+
+
+# Hyperlinks
+
+Create links by wrapping the link text in square brackets [ ], and the URL in adjacent parentheses ( ). 
+
+```
+[Google News](https://news.google.com)
+```
+
+[Google News](https://news.google.com)
+
+
+---
+
+
+
+# Images
+
+Insert images in a similar way, but add an exclamation mark in front of square brackets ![ ], and the image file name goes in the parentheses ( ). 
+
+```
+![alt_text_here](image_file.png)
+```
+
+The *alt text* appears when the image cannot be located, or is read by devices for the blind when the mouse hovers over the image. It 
+
+It is common practice to place all of the image files in an "assets" or "images" folder to keep your directory tidy. You can reference files inside a folder using the folder name and the forward slash:
+
+```
+![a flower](images/flower.jpg)
+```
+
+![a flower](images/flower.jpg)
+
+
+---
+
+Or you can link directly to an image online using the URL address of the image:
+
+```
+![](https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1507062474/hotel-everest-namche-nepal-mountain-lodge-MOUNTAIN1017.jpg)
+```
+
+![](https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1507062474/hotel-everest-namche-nepal-mountain-lodge-MOUNTAIN1017.jpg)
+
+
+---
+
+
+
+# Tables
+
+```
+| Title 1          | Title 2          | Title 3         | Title 4         |
+|------------------|------------------|-----------------|-----------------|
+| First entry      | Second entry     | Third entry     | Fourth entry    |
+| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
+| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
+| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
+
+```
+
+| Title 1          | Title 2          | Title 3         | Title 4         |
+|------------------|------------------|-----------------|-----------------|
+| First entry      | Second entry     | Third entry     | Fourth entry    |
+| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
+| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
+| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
+
+
+---
+
+
+
 
 
 

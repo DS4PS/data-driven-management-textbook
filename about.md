@@ -47,5 +47,13 @@ Students in the course have contributed the chapter summaries and best practice 
 
 --- 
 
+## Why Use GitHub for MPA Courses?
+
+<br>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government" width="854" height="480" style="position:absolute;center:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+<br>
+
+--- 
+
 The *Jekyll* website design was adapted from Niklas Buschmann's [contrast theme](https://github.com/niklasbuschmann/contrast).
 

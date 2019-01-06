@@ -1,6 +1,6 @@
 # Data Analytics for the Public Good
 
-This repo is used for a collaborative book-writing project as part of an Executive MPA class at Arizona State University. 
+This repo is used for a collaborative book-writing project as part of an Executive MPA class at Arizona State University. [ syllabus ](assets/Syllabus-PAF-586-Spring-2019.pdf)
 
 The page design was adapted from the [contrast](https://github.com/niklasbuschmann/contrast) theme.
 

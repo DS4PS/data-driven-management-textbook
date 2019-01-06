@@ -2,7 +2,7 @@
  [ ]  Lindsey Duncan  
  [ ]  Rachael Goodwin  
  [X]  Erin Hart  
- [ ]  Thomas Kolwicz  
+ [X]  Thomas Kolwicz  
  [ ]  Carlos Lopez  
  [ ]  Joseph Lynch  
  [ ]  Julie Moore  
@@ -12,5 +12,5 @@
  [ ]  Matthew Simon  
  [ ]  Dennis Stockwell  
  [X]  Justin Stoker  
- [ ]  Lauren Zajac  
+ [X]  Lauren Zajac  
  

@@ -1,16 +1,16 @@
 
- [ ]  Lindsey Duncan  
- [ ]  Rachael Goodwin  
+ [X]  Lindsey Duncan  
+ [X]  Rachael Goodwin  
  [X]  Erin Hart  
- [X]  Thomas Kolwicz  
- [ ]  Carlos Lopez  
- [ ]  Joseph Lynch  
- [ ]  Julie Moore  
- [ ]  Marcela Morales  
- [ ]  Lorna Romero  
- [ ]  William Seeley  
+ [X]  Thomas Kolwicz   [needs to confirm]
+ [X]  Carlos Lopez  
+ [X]  Joseph Lynch   [needs to confirm]
+ [X]  Julie Moore  
+ [X]  Marcela Morales  
+ [X]  Lorna Romero  
+ [X]  William Seeley  
  [ ]  Matthew Simon  
- [ ]  Dennis Stockwell  
+ [X]  Dennis Stockwell  
  [X]  Justin Stoker  
  [X]  Lauren Zajac  
  

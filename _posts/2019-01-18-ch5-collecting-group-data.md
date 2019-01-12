@@ -4,13 +4,18 @@ title: "Collecting Group Data"
 
 Collecting Group Data (Team 5)
 
-## Key Points
+## Topic Overview
+
 
 ## Chapter Summaries
 
-## Blog Post (for YellowDig)
+
+## Key Take-Aways (for Yellowdig)
+
 
 ### Discussion Questions
+
+
 
 ## References
 

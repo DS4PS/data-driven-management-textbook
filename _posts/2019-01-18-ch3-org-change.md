@@ -6,13 +6,17 @@ title: "Challenges of Organizational Change"
 
 # The Challenges of Big Data: Organizational Change 
 
-## Key Points
+## Topic Overview
+
 
 ## Chapter Summaries
 
-## Blog Post (for YellowDig)
+
+## Key Take-Aways (for Yellowdig)
 
 ### Discussion Questions
+
+
 
 ## References
 

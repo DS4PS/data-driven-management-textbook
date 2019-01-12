@@ -4,12 +4,16 @@ title: ""
 
 
 
-## Key Points
+## Topic Overview
+
 
 ## Chapter Summaries
 
-## Blog Post (for YellowDig)
+
+## Key Take-Aways (for Yellowdig)
 
 ### Discussion Questions
+
+
 
 ## References

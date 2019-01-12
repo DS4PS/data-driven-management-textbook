@@ -7,13 +7,19 @@ title: "Challenges of Privacy"
 
 # Challenges of Big Data: Ethics and Privacy 
 
-## Key Points
+## Topic Overview
+
 
 ## Chapter Summaries
 
-## Blog Post (for YellowDig)
+
+## Key Take-Aways (for Yellowdig)
+
+
 
 ### Discussion Questions
+
+
 
 ## References
 

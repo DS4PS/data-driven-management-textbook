@@ -4,13 +4,17 @@ title: "Processing Satellite Data"
 
 (Team 6)
 
-## Key Points
+## Topic Overview
+
 
 ## Chapter Summaries
 
-## Blog Post (for YellowDig)
+
+## Key Take-Aways (for Yellowdig)
 
 ### Discussion Questions
+
+
 
 ## References
 

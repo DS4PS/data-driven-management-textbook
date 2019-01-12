@@ -6,11 +6,13 @@ title: "Information Blindness"
 
 # The Challenge of Big Data: Information Blindness 
 
-## Key Points
+## Topic Overview
+
 
 ## Chapter Summaries
 
-## Blog Post (for YellowDig)
+
+## Key Take-Aways (for Yellowdig)
 
 ### Discussion Questions
 

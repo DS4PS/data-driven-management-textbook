@@ -10,11 +10,11 @@ title: "The Big Promise of Big Data"
 
 ## Chapter Summaries
 
-### Social Physics CH1 From Ideas to Action
+### Social Physics **CH1 From Ideas to Action**
 
-### Digital Humanitarians CH1 Rise of Digital
+### Digital Humanitarians **CH1 Rise of Digital**
 
-### NYT The Age of Big Data
+### NYT **The Age of Big Data**
 
 
 

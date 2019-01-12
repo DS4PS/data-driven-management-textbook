@@ -1,13 +1,15 @@
+@import variables
+
 body
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif
   font-size: $font-size
   font-weight: $font-weight
   line-height: $line-height
-  background: $background
-  color: $color
-  margin: 0
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
+
+body, blockquote, figure
+  margin: 0
 
 a
   color: inherit
@@ -25,7 +27,7 @@ h1, h2, h3, h4, h5, h6
 article a
   color: $link-color
 
-header a, footer a
+article header a, article footer a
   font-weight: inherit
   color: inherit
 
@@ -39,18 +41,9 @@ hr
 blockquote
   border-left: 4px solid $link-color
   padding-left: 1.5em
-  margin: 0
-
-body, aside, main
-  flex-direction: column
-
-main, article
-  flex-grow: 1
 
 img
+  border-radius: 2px
   max-width: 100%
   height: auto
-  border-radius: 2px
-
-figure
-  margin: 1em 0
+  margin: .5em 0

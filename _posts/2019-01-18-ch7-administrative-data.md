@@ -2,15 +2,20 @@
 title: "Using Administrative Data"
 ---
 
-Using Administrative Data (Team 7)
+(Team 7)
 
-## Key Points
+
+## Topic Overview
+
 
 ## Chapter Summaries
 
-## Blog Post (for YellowDig)
+
+## Key Take-Aways (for Yellowdig)
 
 ### Discussion Questions
+
+
 
 ## References
 

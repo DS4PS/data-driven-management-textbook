@@ -83,6 +83,8 @@ but are rather focused on the data and analysis.
 
 ### Discussion Questions
 
+1. Here is a question.
+2. Here is another question.
 
 
 ## References

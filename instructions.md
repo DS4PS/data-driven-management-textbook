@@ -2,6 +2,13 @@
 title: "Instructions"
 ---
 
+## Editing GitHub Pages
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xDDKYBWD7N8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br>
+
+
 ## Drafting Your Chapter
 
 You are responsible for creating chapters that present key insights for each topic. The purpose of the exercise is to work collaboratively to create a robust set of notes that can serve as a future reference guide so you can remind yourself about details of the course or quickly identify chapters or articles you want to revisit. Different topics might require different approaches (some lend themselves to check-lists or best-practices, while others might focus on clearly articulating an idea or area of research.). 

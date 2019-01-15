@@ -2,25 +2,9 @@
 title: "The Big Promise of Big Data"
 ---
 
-(Team 1)
+*William Seeley and Lauren Zajac (Team 1)*
 
 ## Topic Overview
-
-# The Promise of Big Data -Overviews and Summaries of Readings
-
-## Team 1 
-### William Seeley and Lauren Zajac
-
-Reading Assignments:
-Pentland, Alex. (2015). _*Social Physics: How Social Networks Can Make Us Smarter.*_ Penguin Publishing. 
-Chapter 1, pages 1-21.
-
-Meier, Patrick (2015). _*Digital Humanitarianism: How Big Data is changing the Face of Humanitarian 
-Response.*_
-Routledge Publishers. Chapter 1, pages 1-23.
-
-Lohr, Steve, 2012.  _*“The Age of Big Data”.*_  New York Times.  February 12.  
-*http://www.nytimes.com/2012/02/12/sunday-review/big-datas-impact-in-the-world.html.*
 
 
 The readings this week spent a great deal of time unveiling the potential, power and promise of big data including
@@ -30,6 +14,13 @@ stated that “Data is to this century what oil was to the last century: a drive
 in the readings this week is that information overload, or too much information, can be as bad as a lack of information.  
 Industries and companies who can utilize data specialists and new technology and tools to work with the data will have a 
 competitive edge.
+
+  
+
+
+## Chapter Summaries
+
+### Social Physics **CH1 From Ideas to Action**
 
 Alex Pentland examined the tremendous potential of the new frontier of big data during chapter 1, entitled 
 “From Ideas to Actions” when he presented his concept of social physics.  He contends that while the 
@@ -48,6 +39,8 @@ society and its complexity “many orders of magnitude over prior social science
 on the age of Big Data, and he urges that scholars and researchers follow strict scientific policies to ensure the protection 
 of privacy at all costs.
 
+### Digital Humanitarians **CH1 Rise of Digital Humanitarianism**
+
 Patrick Meier dives further into the potential of Big Data, and then discusses his own personal entry into Digital 
 Humanitarianism in Chapter 1, “The Rise of Digital Humanitarianism”.  He describes his own personal brush with tragedy 
 when his wife was in Port-au-Prince, Haiti, conducting research in 2010 when the devastating earthquake hit.  Feeling 
@@ -60,6 +53,8 @@ the source of information from the press, emergency response teams, and friends 
 their missing and affected loved ones.  Big data and the internet allowed these thousands of volunteers to do something 
 tangible to help during the crisis, and has forever changed the way we can respond to disasters.  Meier cautions that 
 Big Data and the overflow of information and data can also be “as paralyzing as the absence of data” (p. 18) and needs to be managed.
+
+### NYT **The Age of Big Data**
 
 Steve Lohr continues this explanation of the power and promise of Big Data in his 2012 Article, *“The Age of Big Data”* published 
 in the _New York Times_.  He states that Big Data is a *“new economic asset, like currency or gold”*.  Big Data has given rise 
@@ -76,17 +71,6 @@ look for data that support their theory, and limits to statistical and mathemati
 Big Data has caused a revolution and paradigm shift.  People are no longer relying on intuition or feelings in their industries, 
 but are rather focused on the data and analysis.
 
-  
-
-
-
-## Chapter Summaries
-
-### Social Physics **CH1 From Ideas to Action**
-
-### Digital Humanitarians **CH1 Rise of Digital Humanitarianism**
-
-### NYT **The Age of Big Data**
 
 
 

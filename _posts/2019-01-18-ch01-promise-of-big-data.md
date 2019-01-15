@@ -8,11 +8,16 @@ title: "The Big Promise of Big Data"
 
 
 The readings this week spent a great deal of time unveiling the potential, power and promise of big data including
-what McKinsey and Company referred to as “the new frontier for innovation, competition and productivity”.  
+what McKinsey and Company referred to as: 
+
+> “the new frontier for innovation, competition and productivity”.  
+
 Big data has the promise to drive changes as profound as the industrial revolution according to GE and in 2017 the Economist 
-stated that “Data is to this century what oil was to the last century: a driver of growth and change”.   One of the key insights
-in the readings this week is that information overload, or too much information, can be as bad as a lack of information.  
-Industries and companies who can utilize data specialists and new technology and tools to work with the data will have a 
+stated that:
+
+> “Data is to this century what oil was to the last century: a driver of growth and change”.   
+
+One of the key insights in the readings this week is that information overload, or too much information, can be as bad as a lack of information.   Industries and companies who can utilize data specialists and new technology and tools to work with the data will have a 
 competitive edge.
 
   

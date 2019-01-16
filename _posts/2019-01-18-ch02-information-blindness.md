@@ -38,6 +38,14 @@ This article focuses on organizations innate want to measure their impact and so
 
 ### Discussion Questions
 
+1.	How are you blinded by data in your current organization? Do you feel overwhelmed by any data that you receive? What do you do when you receive this data?  
+
+2.	Do you feel like you or your organization collect any data that is not used for anything? What is the data point? Do you know why it started being collected? 
+
+3.	Do you feel that your current data procedures in your organization take away time from your work? Do you find data to be informative or not in your current practice? Why? 
+
+4.	Disaster affected communities are increasingly becoming “digital communities” that turn to social media to communicate during disasters and to self-organize in response to crises.  Do you have your own examples of “digital communities” related to your organization and how does your organization work with them?  
+
 ## References
 
 * Duhigg, C. (2016). *Smarter faster better: The secrets of being productive. Random House.* **CH8 pp 238-247, 252-267** 

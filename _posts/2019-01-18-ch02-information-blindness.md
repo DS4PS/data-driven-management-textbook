@@ -2,7 +2,7 @@
 title: "Information Blindness"
 ---
 
-(Team 2)
+Team 2 - Matthew Simon and Carlos Lopez
 
 # The Challenge of Big Data: Information Blindness 
 

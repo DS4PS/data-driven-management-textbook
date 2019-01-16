@@ -36,6 +36,8 @@ This article focuses on organizations innate want to measure their impact and so
 
 ## Key Take-Aways (for Yellowdig)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCLAaiFpWKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Discussion Questions
 
 1.	How are you blinded by data in your current organization? Do you feel overwhelmed by any data that you receive? What do you do when you receive this data?  

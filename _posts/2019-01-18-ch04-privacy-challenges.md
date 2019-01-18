@@ -6,7 +6,7 @@ title: "Challenges of Privacy"
 
 
 # Challenges of Big Data: Ethics and Privacy 
-![alt text](https://github.com/DS4PS/data-driven-management-textbook/raw/master/src/common/images/ "Logo Title Text 1")
+![alt text](https://github.com/DS4PS/data-driven-management-textbook/raw/master/src/common/images/cybersecurity2.png)
 
 ## Topic Overview
 According to the Pew Research Center, 95% of all adults own some form of a cell phone and as many as 77% of those are smart phones (Mobile Fact Sheet, 2018). Verizon has recently announced their intent to shutdown their 2G and 3G data streams on December 31, 2019, effectively pushing people to 4G or the emerging 5G technology for mobile data (Morris, 2018). Smart phones are just one of the many tools that collect and report anonymous data based upon its user’s location, social activities, financial transactions, browsing history, and information searches. This data is collected and passed through algorithms such as Apple’s Siri, Google Maps and Google AdWords to help predict a user’s schedule, interests, traffic patterns and delays, shopping habits, and more. Big Data is being collected all the time and often without the knowledge of the individual contributors of that data. This section discusses the Challenges of Big Data: Ethics and Privacy.
@@ -16,8 +16,11 @@ Whether it is the GPS on a cell phone, traffic cameras, license plate readers, m
 It is important to discuss the ethics and privacy concerns that come about from the collection of all our individual data. While the vast majority of Americans have no concern and claim to have nothing to hide about their life’s data, many are worried about the eventual public access and public use of that data. “There are 3 Big Data concerns that should keep people up at night: Data Privacy, Data Security and Data Discrimination” (Marr, 2018). Questions that people are likely to ask include:
 
   *Is the information truly anonymous or can it be tracked back to me?
+  
   *Can my information be used against me?
+  
   *Is my data going to be used for corporate enrichment or political battles?
+  
   *Would my data contribute to racial or other discriminatory profiling by government or law enforcement?
 
 While the data collection, in general, benefits everyone by helping with traffic or travel time prediction, allowing your phone to store hours of your favorite stores, sports scores or news from your favorite teams, people have begun to express concern about the use or the public exposure of their personal data for reasons not in the public good. The book Social Physics establishes the social nature of individuals and groups and makes the point how information is passes through those social networks. Currently, social media is used extensively for everything from sharing personal updates, to business marketing, to news and press releases. Even in a book that argues the virtues of the sharing of ideas through social networks, Social Physics acknowledges, “Maintaining protection of personal privacy and freedom is critical to the success of any society” (Pentland, 2015 p. 17).

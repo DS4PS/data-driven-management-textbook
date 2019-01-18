@@ -1,3 +1,8 @@
+---
+title: "Challenges of Big Data"
+---
+
+Team 4 - Lindsey Duncan and Justin Stoker
 
 # Challenges of Big Data: Ethics and Privacy
 ### Chapter 4 provided by Team 4

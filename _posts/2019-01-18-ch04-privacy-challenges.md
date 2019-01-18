@@ -49,7 +49,7 @@ The underlying purpose of this text is that there are situations where Big Data 
 #### Ethics
 Users of Big Data should be thoughtful in their approach.  As Cathy O’Neil suggest in Weapons of Math Destruction data can be used for harm even when intended for good.  Programmers and administrators may inadvertently program personal biases into analytical algorithms.  They should be conscientious in their application of the data, ensuring that it is not the only means for evaluating success.  Success is measured as the selection of a candidate for a job, the termination of an employee, the identification of a personal match for dating, the funding of a program, etc. 
 
-<img align="right" src="https://github.com/DS4PS/data-driven-management-textbook/blob/master/images/comment3.jpg">
+<img align="right" src="/data-driven-management-textbook/images/comment3.jpg">
 
 Data systems should also be subject to monitoring, evaluation, and adjustment.  If the means for analyzing the data is flawed and hidden behind a proprietary veil, then the system should be opened up to scrutiny.  If you cannot defend it, you probably shouldn’t be doing it.
 

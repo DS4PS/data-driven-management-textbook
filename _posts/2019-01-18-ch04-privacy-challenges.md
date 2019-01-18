@@ -1,11 +1,6 @@
----
-title: "Challenges of Privacy"
----
 
-(Team 4) 
-
-
-# Challenges of Big Data: Ethics and Privacy 
+# Challenges of Big Data: Ethics and Privacy
+### Chapter 4 provided by Team 4
 ![cybersecurity (By Titima Ongkantong/Shutterstock.com)](https://github.com/DS4PS/data-driven-management-textbook/blob/master/images/cybersecurity2.png)
 
 ## Topic Overview
@@ -32,6 +27,8 @@ This article is about an individual researcher named Michal Kosinski and a Big D
 Kosinski was concerned when he discovered the work of Cambridge Analytica which has been associated with President Trump’s election campaign and Great Britain’s exit from the European Union (Brexit).  Cambridge Analytica was claimed to have profiled all adults in the U.S., using the data for very targeted electronic marketing during the 2016 presidential election.  Xx Nix, spokesperson for Cambridge Analytica’s marketing strategy, “Cambridge Analytica buys personal data from a range of different sources, like land registries, automotive data, shopping data, bonus cards, club memberships, what magazines you read, what churches you attend… in the U.S. almost all personal data is for sale”(Grassegger, 2017). The company then matches this data and aligns with voter information and the personality profile to identify the target market.
 
 ### Eye in the Sky Podcast
+<img align="right" src="https://github.com/DS4PS/data-driven-management-textbook/blob/master/images/comment1.jpg">
+
 Theme is the availability of the data can do a lot of good things, like solve murders, property crimes, etc. but on the other hand there are those that call it a “grotesque violation of privacy” (Eye in the Sky). At what point can public data be taken by a person to track down a cheating spouse? When can it be abused, where do the lines exist?
 
 The Eye in the Sky Podcast details the story of Ross McNutt, a former military officer that utilized surveillance equipment that continuously takes pictures every second over the Town of Fallujah in Afghanistan, to be able to track those that would plant roadside improvised explosive devices (IED). The surveillance equipment would be attached to the underside of an aircraft flying well above the town so that people were nothing more than pixels on a screen. When it was determined that an IED was planted, it was possible to go back and track the person that set the device forward to where they hid or met up with others. The method was effective in tracking down those that would plant the devices. McNutt later separated from the military and established a private company called Persistent Surveillance Systems that would do the same for more domestic towns and cities.
@@ -41,14 +38,18 @@ In one example, McNutt demonstrated the use of the technology to track crime in 
 ### Weapons of Math Destruction – Intro pages 1-13
 The introduction to the Weapons of Math Destruction text recognizes how the success of Big Data has actually been problematic.  Big Data has been described as more objective than the application of human opinion in decision making. However, Big Data has also served to reinforce human bias when it is programmed into the systems used to collect and to analyze data.  Further, O’Neil points out how difficult it is to challenge the verdict of Big Data because the algorithms and coding are a closely guarded proprietary secret or are so complex they are difficult to decipher.  “Like gods, these mathematical models were opaque, their workings invisible to all but the highest priests in their domain,: mathematicians and computer scientists” (O’Neil, 2017, p 3).
 
+<img align="right" src="https://github.com/DS4PS/data-driven-management-textbook/blob/master/images/comment3.jpg">
+
 The text highlights the problematic use of data, specifically in the Washington D.C. schools to evaluate teachers.  The schools were using data to evaluate the success of teachers.  Those who scored in the lowest percentiles were separated from employment.  This shows how problems occur with data and algorithms when they are used rather as doctrine rather than suggestions or indicators. It highlights the story of Sarah Wysocki who scored well one year and then was fired the next. People couldn’t explain the algorithm and failed to consider suggestive information that prior year test results on the students may have been altered by their teachers. Recall the disincentives that occur when what gets measured gets managed.   
 
-“Big Data has plenty of evangelists, but I’m not one of them. This book will focus sharply in the other direction, on the damage inflicted by WMDs and the injustice they perpetuate.” “Welcome to the dark side of Big Data.”
+The underlying purpose of this text is that there are situations where Big Data is being misused and it is done by people that don't understand what they are doing. The author proudly proclaims at the end of the Introduction, “Big Data has plenty of evangelists, but I’m not one of them. This book will focus sharply in the other direction, on the damage inflicted by WMDs *weapons of math destruction* and the injustice they perpetuate. Welcome to the dark side of Big Data.” (O'Neil, 2016, p.13)
 
 ## Key Take-Aways (for Yellowdig)
 
 #### Ethics
 Users of Big Data should be thoughtful in their approach.  As Cathy O’Neil suggest in Weapons of Math Destruction data can be used for harm even when intended for good.  Programmers and administrators may inadvertently program personal biases into analytical algorithms.  They should be conscientious in their application of the data, ensuring that it is not the only means for evaluating success.  Success is measured as the selection of a candidate for a job, the termination of an employee, the identification of a personal match for dating, the funding of a program, etc. 
+
+<img align="right" src="https://github.com/DS4PS/data-driven-management-textbook/blob/master/images/comment2.jpg">
 
 Data systems should also be subject to monitoring, evaluation, and adjustment.  If the means for analyzing the data is flawed and hidden behind a proprietary veil, then the system should be opened up to scrutiny.  If you cannot defend it, you probably shouldn’t be doing it.
 

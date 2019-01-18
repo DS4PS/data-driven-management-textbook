@@ -6,7 +6,7 @@ title: "Challenges of Privacy"
 
 
 # Challenges of Big Data: Ethics and Privacy 
-![alt text](https://github.com/DS4PS/data-driven-management-textbook/raw/master/src/common/images/cybersecurity2.png)
+![alt text](https://github.com/DS4PS/data-driven-management-textbook/tree/master/images/cybersecurity2.png)
 
 ## Topic Overview
 According to the Pew Research Center, 95% of all adults own some form of a cell phone and as many as 77% of those are smart phones (Mobile Fact Sheet, 2018). Verizon has recently announced their intent to shutdown their 2G and 3G data streams on December 31, 2019, effectively pushing people to 4G or the emerging 5G technology for mobile data (Morris, 2018). Smart phones are just one of the many tools that collect and report anonymous data based upon its user’s location, social activities, financial transactions, browsing history, and information searches. This data is collected and passed through algorithms such as Apple’s Siri, Google Maps and Google AdWords to help predict a user’s schedule, interests, traffic patterns and delays, shopping habits, and more. Big Data is being collected all the time and often without the knowledge of the individual contributors of that data. This section discusses the Challenges of Big Data: Ethics and Privacy.

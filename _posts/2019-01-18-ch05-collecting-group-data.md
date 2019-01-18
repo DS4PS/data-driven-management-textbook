@@ -30,7 +30,7 @@ In Chapter 5 of *Social Physics,* researchers detail their findings regarding ne
 In order to develop the volume of ideas, the members of the group must actively engage in ‘exploration’ whereby they venture outside of the network to gather unique data and return to the network to add it to the collective stockpile of information. Once this “idea dump” has been completed, the network reconvenes as a unit to filter and evaluate it. Once completed, any ideas or information that are deemed valuable or actionable by the majority are put into practice. 
 
 ## Key Take-Aways (for Yellowdig)
-[Collecting Group Data] (https://voicethread.com/share/11982579/​)
+[Collecting Group Data](https://voicethread.com/share/11982579/​)
 
 ### Discussion Questions
 In one case, a company subsidized the cell phone equipment and service for people participating in a study that tracked their media consumption. Their phones were enabled to listen to everything that user experienced and took short snippets of sound and matched those against a database to see what movies, songs, TV shows, or other media a person may be listening or watching. For you, if a company offered to pay your cell phone bill, would you give them an all-access pass to listen to your life? Describe your answer.

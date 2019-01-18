@@ -10,12 +10,12 @@ title: "The Big Promise of Big Data"
 The readings this week spent a great deal of time unveiling the potential, power and promise of big data including
 what McKinsey and Company referred to as: 
 
-> “the new frontier for innovation, competition and productivity”.  
+“the new frontier for innovation, competition and productivity”.  
 
 Big data has the promise to drive changes as profound as the industrial revolution according to GE and in 2017 the Economist 
 stated that:
 
-> “Data is to this century what oil was to the last century: a driver of growth and change”.   
+“Data is to this century what oil was to the last century: a driver of growth and change”.   
 
 One of the key insights in the readings this week is that information overload, or too much information, can be as bad as a lack of information.   Industries and companies who can utilize data specialists and new technology and tools to work with the data will have a 
 competitive edge.
@@ -83,8 +83,11 @@ but are rather focused on the data and analysis.
 
 ### Discussion Questions
 
-1. Here is a question.
-2. Here is another question.
+1. Meier cautions that Big Data and the "overflow of information and data" can also be “as paralyzing as the absence of data” (p. 18).    Describe a time when you encountered "too much of a good thing (data)" and what were some strategies you used to overcome the problem?  
+
+2. In his article, "The age of Big Data", Lohr mentions that  enthusiasts say that the Big Data has the potential to be "humanity's dashboard" with numerous helpful and positive uses, while critics argue that it is just "Big Brother" invading people's privacy.  What is your feeling on Big Data?
+
+3. Meier talks about the tangible results (Digital Humanitarianism!) That they found from the use of big data, is there a time that you used data and had immediate results? 
 
 
 ## References

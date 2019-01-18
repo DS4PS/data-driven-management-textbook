@@ -15,13 +15,13 @@ Whether it is the GPS on a cell phone, traffic cameras, license plate readers, m
 
 It is important to discuss the ethics and privacy concerns that come about from the collection of all our individual data. While the vast majority of Americans have no concern and claim to have nothing to hide about their life’s data, many are worried about the eventual public access and public use of that data. “There are 3 Big Data concerns that should keep people up at night: Data Privacy, Data Security and Data Discrimination” (Marr, 2018). Questions that people are likely to ask include:
 
-  *Is the information truly anonymous or can it be tracked back to me?
+* Is the information truly anonymous or can it be tracked back to me?
   
-  *Can my information be used against me?
+* Can my information be used against me?
   
-  *Is my data going to be used for corporate enrichment or political battles?
+* Is my data going to be used for corporate enrichment or political battles?
   
-  *Would my data contribute to racial or other discriminatory profiling by government or law enforcement?
+* Would my data contribute to racial or other discriminatory profiling by government or law enforcement?
 
 While the data collection, in general, benefits everyone by helping with traffic or travel time prediction, allowing your phone to store hours of your favorite stores, sports scores or news from your favorite teams, people have begun to express concern about the use or the public exposure of their personal data for reasons not in the public good. The book Social Physics establishes the social nature of individuals and groups and makes the point how information is passes through those social networks. Currently, social media is used extensively for everything from sharing personal updates, to business marketing, to news and press releases. Even in a book that argues the virtues of the sharing of ideas through social networks, Social Physics acknowledges, “Maintaining protection of personal privacy and freedom is critical to the success of any society” (Pentland, 2015 p. 17).
 

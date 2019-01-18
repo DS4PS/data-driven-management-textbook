@@ -38,7 +38,7 @@ In one example, McNutt demonstrated the use of the technology to track crime in 
 ### Weapons of Math Destruction – Intro pages 1-13
 The introduction to the Weapons of Math Destruction text recognizes how the success of Big Data has actually been problematic.  Big Data has been described as more objective than the application of human opinion in decision making. However, Big Data has also served to reinforce human bias when it is programmed into the systems used to collect and to analyze data.  Further, O’Neil points out how difficult it is to challenge the verdict of Big Data because the algorithms and coding are a closely guarded proprietary secret or are so complex they are difficult to decipher.  “Like gods, these mathematical models were opaque, their workings invisible to all but the highest priests in their domain,: mathematicians and computer scientists” (O’Neil, 2017, p 3).
 
-<img align="right" src="https://github.com/DS4PS/data-driven-management-textbook/blob/master/images/comment3.jpg">
+<img align="right" src="https://github.com/DS4PS/data-driven-management-textbook/blob/master/images/comment2.jpg">
 
 The text highlights the problematic use of data, specifically in the Washington D.C. schools to evaluate teachers.  The schools were using data to evaluate the success of teachers.  Those who scored in the lowest percentiles were separated from employment.  This shows how problems occur with data and algorithms when they are used rather as doctrine rather than suggestions or indicators. It highlights the story of Sarah Wysocki who scored well one year and then was fired the next. People couldn’t explain the algorithm and failed to consider suggestive information that prior year test results on the students may have been altered by their teachers. Recall the disincentives that occur when what gets measured gets managed.   
 
@@ -49,7 +49,7 @@ The underlying purpose of this text is that there are situations where Big Data 
 #### Ethics
 Users of Big Data should be thoughtful in their approach.  As Cathy O’Neil suggest in Weapons of Math Destruction data can be used for harm even when intended for good.  Programmers and administrators may inadvertently program personal biases into analytical algorithms.  They should be conscientious in their application of the data, ensuring that it is not the only means for evaluating success.  Success is measured as the selection of a candidate for a job, the termination of an employee, the identification of a personal match for dating, the funding of a program, etc. 
 
-<img align="right" src="https://github.com/DS4PS/data-driven-management-textbook/blob/master/images/comment2.jpg">
+<img align="right" src="https://github.com/DS4PS/data-driven-management-textbook/blob/master/images/comment3.jpg">
 
 Data systems should also be subject to monitoring, evaluation, and adjustment.  If the means for analyzing the data is flawed and hidden behind a proprietary veil, then the system should be opened up to scrutiny.  If you cannot defend it, you probably shouldn’t be doing it.
 

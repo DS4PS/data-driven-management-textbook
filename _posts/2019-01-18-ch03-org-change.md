@@ -2,8 +2,8 @@
 title: "Challenges of Organizational Change"
 ---
 
-(Team 3)
-
+Joseph Lynch
+Marcela Morales 
 # The Challenges of Big Data: Organizational Change 
 
 ## Topic Overview

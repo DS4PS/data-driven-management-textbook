@@ -138,6 +138,9 @@ According the leading experts, Open Data should be complete, primary, timely, ac
 	12. Are there privacy concerns about visually mapping out specific taxpayer information including address/location?
 	13. In your current role/organization, how many of these 8 principles do you utilize when providing open data to the public? 
 	14. For those in the public sector, what are some of the challenges government entities face when attempting to provide data and information? 
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pt1Y0Zz2sn8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 
 ## References:
 * Eagle, N., & Greene, K. (2014). Reality mining: Using big data to engineer a better world. MIT Press. CH7 mobile and internet data

@@ -19,6 +19,7 @@ CDRs were historically only used for billing purposes, but since 2005, it was de
 
 Internet Companies -
 Google services include Gmail, Google+ social network, YouTube, and the Chrome web browser.  Google keeps a log of searches and URLs if the “Instant” feature is enabled on Chrome.  Google also “logs YouTube videos watched, activity on Google+, and the text of emails sent through Gmail.”  (P.119) Google’s Adsense program runs advertisements based on information gathered through key words and phrases.  
+
 Facebook offers a similar advertising network like Google’s Adsense.  Both programs operate on “clicks” and “impressions” based on key words.  Key words are set by the advertiser and “pulled” from FB user’s profiles.  An advertiser then receives metrics of general statistics like the number of emails or profiles the ad appears in.   This information is “mined” to get the overall feel of a product across demographics.  FB also has an API which allows a programmer to have access to phone numbers, contact lists, etc., if the FB user allows this in their privacy settings.  Zynga, an FB application, collects habits and behaviors of people who play their games.  The most popular game, FarmVille, has been questioned for its ethnicity due to requirement of participants to trade information about their friends, likes, desires, and consumption habits to participate in the game. 
 
 Twitter is different than Google and FB because most of the user’s data is publically available and can be used to “mine for the sentiment of a nation” based on the location of a tweet.  (P. 121) However, it’s a challenge to determine the signal from the “noise” from fragmented conversations, links, hashtags, and abbreviations.  
@@ -49,28 +50,26 @@ By looking at prior year budget it was obvious that this $791 million line item 
 ## Payer or Prayer- A Look at NYC’s $650 Million Property Tax Breaks Related to Religion
 A team downloaded every individual tax bill via PDF to create a map that shows the locations of religious property tax exemptions as well as the type of exemption, amount and the name of the religious institution. The exemption types included: “House of Worship,” “Religious Dormitory,” “Clergy,” “Parsonage,” “Religious Mission,” “Bible,” and “Salvation Army.”  
 
-A first look at the data revealed that the sum all exemptions totaled $12.9 billion of a total tax due of about $21.6 billion.  But many of these tax abatements go to public agencies such parks, the department of education as well as the port authority.  But listed as number six on the list is houses of worship, totaling $650 million a year. 
+A first look at the data revealed that the sum all exemptions totaled $12.9 billion of a total tax due of about $21.6 billion.  But many of these tax abatements go to public agencies such parks, the department of education as well as the port authority.  But listed as number six on the list is houses of worship, totaling $650 million a year approximately 1% of the entire city’s budget.  These exemptions also add up to $76 dollars per NYC resident.
 
+Here is some of the highlights of the analysis:
+*The neighborhoods receiving the largest amount of exemptions per resident are some of our wealthiest
+*Communities with Large Jewish Populations Have the Most Religious Schools per Capita
+*Clergy May be Priced out of Manhattan, but there are Plenty Living in Ocean Parkway South
+*South Jamaica Has the Most Houses of Worship per Capita
+*There is a “Bible” exemption taken by just two properties in NYC
 
 
 ## 8 principles of open data
 In 2007, number of open data advocates met and established principles of open government data. Below is a brief recap of the principles:
-  1.	Complete
-    a.	All data considered public is made available. Public data is defined as “data that is not subject to valid privacy,       security or privilege limitations.”
-  2.	Primary
-    a.	All data is produced from the original sources
-  3.	Timely
-    a.	Data is given as quickly as possible 
-  4.	Accessible
-    a.	Data should be to a wide variety of users for the multiple of purposes.  This includes: accessible via the internet, consideration for the disabled, and follow current industry standard protocols and formats. 
-  5.	Machine-processable
-    a.	Data is provided in a format that allows for automated processing which require proper encoding. 
-  6.	Non-discriminatory
-    a.	Data is available to all persons, including those who request it anonymously. 
-  7.	Non-proprietary
-    a.	Data is available in a format that no one entity has exclusivity, therefore not in a proprietary format. 
-  8.	License-free
-    a.	Often government data is a mixture personal data, copyrighted information or others forms of non-open data. Therefore, the experts determine that open data should not subject to any copyright, patent, trademark or trade secret regulation, but “reasonable privacy, security and privilege restrictions may be allowed.”
+  1.	Complete: All data considered public is made available. Public data is defined as “data that is not subject to valid privacy, security or privilege limitations.”
+  2.	Primary: All data is produced from the original sources
+  3.	Timely: Data is given as quickly as possible 
+  4.	Accessible: Data should be to a wide variety of users for the multiple of purposes.  This includes: accessible via the internet, consideration for the disabled, and follow current industry standard protocols and formats. 
+  5.	Machine-processable: Data is provided in a format that allows for automated processing which require proper encoding. 
+  6.	Non-discriminatory: Data is available to all persons, including those who request it anonymously. 
+  7.	Non-proprietary: Data is available in a format that no one entity has exclusivity, therefore not in a proprietary format. 
+  8.	License-free: Often government data is a mixture personal data, copyrighted information or others forms of non-open data. Therefore, the experts determine that open data should not subject to any copyright, patent, trademark or trade secret regulation, but “reasonable privacy, security and privilege restrictions may be allowed.”
 
 There are seven additional principles that the group could have considered but did not. Those include:
   1.	Open data should be online and free
@@ -113,9 +112,11 @@ Citizen was able to use NYC Open Portal and Google Maps to determine millions of
 Citizen made appropriate notifications to NYC and NYPD provided training to officers & established a digital monitoring system to ensure citizens weren’t being “legally” ticketed. 
 
 ### Summary #3:
+Open Data of the NYC budget for one fiscal year revealed a nearly $800 million typo in the approved budget. The new searchable database categorized expenses all the way down to the “Object Code” Name.  These codes included elements including full time position costs, overtime and postage. All of these codes are assigned to an individual agency, making it easy to track expenses. It also made it easy to find errors.   
 
 
 ### Summary #4:
+A team downloaded every individual tax bill via PDF to create a map that shows the locations of religious property tax exemptions as well as the type of exemption, amount and the name of the religious institution. The exemption types included: “House of Worship,” “Religious Dormitory,” “Clergy,” “Parsonage,” “Religious Mission,” “Bible,” and “Salvation Army.” This allowed the group to create an analysis of every religiously affiliated property tax exemption in the city based on location and exemption type. 
 
 
 ### Summary #5: 
@@ -123,20 +124,20 @@ According the leading experts, Open Data should be complete, primary, timely, ac
 
 
 ## Discussion Questions:
-*1. Do you think Zinga is being ethical (through Google) allowing FarmVille to gather information regarding friends, likes, desires, and consumption habits?
-*2. Are you comfortable with Tresata having access to your financial personal management, as well as an investment firm? 
-*3. Do you like personalized advertisements regarding on-line spending based on your personal spending tracked through Mint?
-*4. Do you think a City allowing citizen’s access to an Open Portal is good for the citizens and/or a City?
-*5. NYC will lose a substantial dollar amount in parking fines, now that a citizen took the initiate, using the City’s Open Portal system, to acknowledge parking tickets were unfair.  Do you think all City’s should be this transparent?
-*6. Do you think City’s which aren’t transparent, are purposefully doing so to “hide” the facts? 
-*7. How concerning is it that there was such a large error in the approved budget?
-*8. Have you encountered a situation where an error was exposed by a third party who analyzed your organization’s data? 
-*9. Should all budget line items be available for public scrutiny? What potential challenges might this present?
-*10. From a taxpayer perspective, how valuable is this specific  property tax data? How should policy makers use this data for policy decisions?  
-*11. Have you used similar mapping strategies to better understand where resources are allocated in your organization? 
-*12. Are there privacy concerns about visually mapping out specific taxpayer information including address/location?
-*13. In your current role/organization, how many of these 8 principles do you utilize when providing open data to the public? 
-*14. For those in the public sector, what are some of the challenges government entities face when attempting to provide data and information? 
+	1. Do you think Zinga is being ethical (through Google) allowing FarmVille to gather information regarding friends, likes, desires, and consumption habits?
+	2. Are you comfortable with Tresata having access to your financial personal management, as well as an investment firm? 
+	3. Do you like personalized advertisements regarding on-line spending based on your personal spending tracked through Mint?
+	4. Do you think a City allowing citizen’s access to an Open Portal is good for the citizens and/or a City?
+	5. NYC will lose a substantial dollar amount in parking fines, now that a citizen took the initiate, using the City’s Open Portal system, to acknowledge parking tickets were unfair.  Do you think all City’s should be this transparent?
+	6. Do you think City’s which aren’t transparent, are purposefully doing so to “hide” the facts? 
+	7. How concerning is it that there was such a large error in the approved budget?
+	8. Have you encountered a situation where an error was exposed by a third party who analyzed your organization’s data? 
+	9. Should all budget line items be available for public scrutiny? What potential challenges might this present?
+	10. From a taxpayer perspective, how valuable is this specific  property tax data? How should policy makers use this data for policy decisions?  
+	11. Have you used similar mapping strategies to better understand where resources are allocated in your organization? 
+	12. Are there privacy concerns about visually mapping out specific taxpayer information including address/location?
+	13. In your current role/organization, how many of these 8 principles do you utilize when providing open data to the public? 
+	14. For those in the public sector, what are some of the challenges government entities face when attempting to provide data and information? 
 
 ## References:
 * Eagle, N., & Greene, K. (2014). Reality mining: Using big data to engineer a better world. MIT Press. CH7 mobile and internet data

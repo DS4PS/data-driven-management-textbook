@@ -54,7 +54,7 @@ The Podcast participants clearly recognize the potential positive impacts this t
 
 ## Key Take-Aways (for Yellowdig)
 
-
+https://www.youtube.com/watch?v=fVL3TC9wC5Q&feature=youtu.be
 
 ### Discussion Questions
 

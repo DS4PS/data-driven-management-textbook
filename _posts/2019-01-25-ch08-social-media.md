@@ -26,12 +26,12 @@ In conclusion, the readings this week explored a number of new concepts, platfor
 
 Yellowdig Link:
 
+
 ### Discussion Questions
 Questions:
 1.	Meier described microtasking as a method where information is sliced and diced into smaller, more manageable sections to assist in processing a great deal of information in a short amount of time (p. 62).  Have you used any similar techniques in your data analysis?
 2.	Artificial Intelligence (AI) seems like science fiction, but we continue to be exposed to more examples of it in our daily life- “Just ask Siri”.  What are some ways AI has or can impact your daily work?
 3.	Emergency Management has very rigid standards for data collection and responses, which makes additional data collection nearly impossible.  Does your industry have the same issue?  How can one overcome this barrier, especially in the age of social media?
-
 
 
 ## References

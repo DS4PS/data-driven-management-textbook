@@ -3,6 +3,7 @@ title: "Harnessing Social Media Data"
 ---
 
 William Seeley and Lauren Zajac
+Team 1
 
 ## Topic Overview
 The readings this week focused on new innovations to manage Big Data and the volume of information on social media.  As discussed in earlier chapters, all of this information can be overwhelming, and can cause information blindness. Patrick Meier explains that sifting through this vast quantity of information is even harder than finding a “needle in a hay stack…you are actually trying to find a needle in a meadow” (p. 96).  Chapter three and five are used to explore new tools, concepts and platforms in development and to help digital humanitarians accurately and quickly make sense of vast quantities of information.    These tools can be used in a crisis to help to quickly classify information on social media into requests for help and asks for assistance, and offer built in digital “rules”, using multiple people verify the same information, to ensure that there is quality control and assurance.  The faster processing time enables disaster response teams to respond faster.  While the readings focused almost exclusively on the use of artificial intelligence and other data platforms for digital humanitarian response teams, there are some important management lessons for all of us, including the hope that we can better understand many of these technical innovations, and begin to determine ways that they can help us tackle Big Data in our daily work.

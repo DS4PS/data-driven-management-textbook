@@ -5,7 +5,7 @@ title: "Challenges of Data Quality"
 Marcela Morales and Joseph Lynch
 
 ## Topic Overview
-
+Big Data (social media) has been used during crisis situtations with differing levels of effectiveness. During the 3 chapters, the prevalance of big date, veratcity of big data, and the usability of big data in crisis situations is explored.
 
 ## Chapter Summaries
 Meier, P. (2015). Digital humanitarians: how big data is changing the face of humanitarian response. Routledge. CH2 the rise of big crisis data pp 31-47 

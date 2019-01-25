@@ -56,7 +56,7 @@ To best used data in a crisis situation, being “right is more important than b
 ### Discussion Questions
 Does the potential value of big data (social media/crowds sourcing) in crisis situations outweigh the potential false data and misuse of emergency response in crisis situations? 
 
-Does the variability of usable information (0.001% to 65%) cause you limit your expectations for the viability of crowd sourced data?
+Does the variability of usable information (0.001% to 65%) cause you to limit your expectations for the viability of crowd sourced data?
 
 
 ## References

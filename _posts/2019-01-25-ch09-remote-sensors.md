@@ -2,7 +2,7 @@
 title: "Remote Sensors"
 ---
 
-(Team 2)
+Team 2:  Matthew Simon and Carlos Lopez
 
 ## Topic Overview
 

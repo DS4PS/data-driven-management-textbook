@@ -33,32 +33,35 @@ How to make big data usable in disasters?
 
 The variance of reliable data on social media during disasters vary greatly. The Joplin tornado (2011) had 10% relevant data shared on social media, the Australian Bush Fires (2009) had 65% relevant data, Hurricane Sandy (2012) had .001% relevant data.
 
-Can the Data be Trusted?
+#### Can the Data be Trusted?
 
 During the 2010 Chilean Earthquake, emergency services were responding to requests on social media that included fake information. The false data was responsible for sending emergency response teams on wild goose chases instead of being at true emergencies. 
 False data was repeated again with the hurricane in Haiti, Hurricane Sandy, hacked AP social media sites saying the White House was attacked (briefly wiping out $130 Billion in the stock market), 
 
-How Much Data is Right?
+#### How Much Data is Right?
 
 When responding to disaster social media, is one tweet as valuable as 1,000 tweets. Does the quantity add to the validity?
 If Social media is being used to prepare disaster response, do areas without social media receive the same service. A large portion of the world’s population does not use social media.
 
-Can crowd sourcing be used to verify Data?
+#### Can crowd sourcing be used to verify Data?
 
 Libya screened volunteers to sourced data during humanitarian efforts. Identification and social media of the volunteers were vetted to ensure that information was not sabotaged.
 In Russia during the election, the crowd sourced election information function of social media was turned off due to massive reports of election violations. The Government did not want this shared.
 
-Can Artificial Intelligence verify Big Data?
+#### Can Artificial Intelligence verify Big Data?
 
 No technology can verify information alone. The blend of human “cognition” along with technical processes will deliver the most accurate result.
+
 To best used data in a crisis situation, being “right is more important than being first”
 
-https://youtu.be/6R7-WXViJHY
+### Synopsis
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6R7-WXViJHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Discussion Questions
-Does the potential value of big data (social media/crowds sourcing) in crisis situations outweigh the potential false data and misuse of emergency response in crisis situations? 
 
-Does the variability of usable information (0.001% to 65%) cause you to limit your expectations for the viability of crowd sourced data?
+1. Does the potential value of big data (social media/crowds sourcing) in crisis situations outweigh the potential false data and misuse of emergency response in crisis situations?  
+2. Does the variability of usable information (0.001% to 65%) cause you to limit your expectations for the viability of crowd sourced data? 
 
 
 ## References

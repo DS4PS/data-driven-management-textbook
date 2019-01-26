@@ -26,7 +26,8 @@
   {% unless site.hide_title %}<h1><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>{% endunless %}
   {% if site.navigation %}<nav>{% for path in site.navigation %}{% assign node = site.pages | where: "name", path | first %}<a href="{{ node.url | relative_url }}">{{ node.title }}</a>{% endfor %}</nav>{% endif %}
   <nav>
-    {% if site.icons %}{% for link in site.icons %}<a class="icon" style="font-size: 1.7em;" href="{{ link[1] }}{{page.path}}" target="_blank"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ link[0] }}"></use></svg></a>{% endfor %}{% endif %}  
+    {% if site.icons %}{% for link in site.icons %}<a class="icon" style="font-size: 1.7em;" href="{{ link[1] }}{{page.path}}" target="_blank"><svg><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ link[0] }}"></use></svg></a>{% endfor %}{% endif %}
+    <a class="icon" href="https://ds4ps.github.io/data-driven-management-textbook/bookdown/docs/index.html" target="_blank"><i class="fa fa-leanpub fa-2x"></i></a>
   </nav> 
 </header>
 

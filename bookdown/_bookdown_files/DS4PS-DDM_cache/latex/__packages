@@ -1,0 +1,12 @@
+base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
+bookdown
+rmarkdown
+dplyr
+pander
+stargazer

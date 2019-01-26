@@ -1,0 +1,17 @@
+book_filename: "DS4PS-DDM"
+# rmd_files: ["index.Rmd", "01-intro.Rmd", "04-application.Rmd"]
+rmd_files: [
+	"index.Rmd",
+	"2019-01-18-ch01-promise-of-big-data.Rmd",
+	"2019-01-18-ch02-information-blindness.Rmd" ,
+	"2019-01-18-ch03-org-change.Rmd",
+	"2019-01-18-ch04-privacy-challenges.Rmd",
+	# "CH-12-shiny-widgets.Rmd",
+	# "CH-99-merging-data.Rmd",
+]
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
+output_dir: "docs"
+before_chapter_script: "_rmarkdown_settings.R"

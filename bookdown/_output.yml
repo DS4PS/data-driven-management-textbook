@@ -4,14 +4,12 @@ bookdown::gitbook:
     toc:
       collapse: subsection
       before: |
-        <li><a href="https://ds4ps.github.io/course_website/">Data Science I</a></li>
+        <li><a href="https://ds4ps.github.io/data-driven-management-textbook/">DDM</a></li>
       after: |
-        <li><a href="https://webapp4.asu.edu/programs/t5/majorinfo/ASU00/PPPGEMS/graduate/false" target="blank">ASU</a></li>
-    edit: https://github.com/DS4PS/Data-Science-Class/tree/master/TEXTBOOK/%s   
-    download: ["pdf","epub"]
+        <li><a href="www.asu.edu" target="blank">ASU</a></li>
+    edit: https://github.com/DS4PS/data-driven-management-textbook/tree/master/bookdown/%s   
+    download: ["pdf"]
 bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes

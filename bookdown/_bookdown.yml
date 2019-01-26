@@ -1,11 +1,11 @@
-book_filename: "DS4PS-DDM"
+book_filename: "DDM"
 # rmd_files: ["index.Rmd", "01-intro.Rmd", "04-application.Rmd"]
 rmd_files: [
 	"index.Rmd",
-	"2019-01-18-ch01-promise-of-big-data.Rmd",
-	"2019-01-18-ch02-information-blindness.Rmd" ,
-	"2019-01-18-ch03-org-change.Rmd",
-	"2019-01-18-ch04-privacy-challenges.Rmd",
+	"ch01.Rmd",
+	"ch02.Rmd" ,
+	"ch03.Rmd",
+	"ch04.Rmd"
 	# "CH-12-shiny-widgets.Rmd",
 	# "CH-99-merging-data.Rmd",
 ]

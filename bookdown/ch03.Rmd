@@ -1,9 +1,10 @@
-# Challenges of Organizational Change"
+# Challenges of Organizational Change
 
 
 Joseph Lynch
 Marcela Morales 
-# The Challenges of Big Data: Organizational Change 
+
+## The Challenges of Big Data: Organizational Change 
 
 ## Topic Overview
 With over 2.5 Quintillion bytes of data created every day, the greatest challenge to business is how to use this data to improve businesses while making it profitable. 
@@ -44,7 +45,6 @@ Mountains of cash keep pouring into the titans of big data despite the world's i
 **Why Managers hate agile management**
 
 Why managers hate agile management:
-https://www.forbes.com/sites/stevedenning/2015/01/28/more-on-why-managers-hateagile/#186ce9f010ea
 
 
 In the traditional model, there is a top down model where a vision or product is created and this follows a “relay race” through the various managers, line staff, and sales teams. Each level is assigned a different aspect of the vision or product to achieve an end result. As noted in the article “” Why Do Managers Hate Agile?” (Forbes, 2015), the goal of the traditional model was to “have semi-skilled employees…perform repetitive activities competently and efficiently” and coordinating those efforts so that products could be produced in large quantities.” In the Agile model, speed to service or product is the goal which conflicts with the traditional model by using the concurrent work of many (including private entities) to enhance the product. The traditional manager is used to having control of the outcome of the vision or product and this just does not work in the Agile model which is causing the “tension.” 
@@ -56,7 +56,6 @@ The Agile method releases or lessens the control that the traditional Manager us
 
 
 ## Key Take-Aways (for Yellowdig)
-https://youtu.be/1VFlZ_GM3q8
 
 ### Discussion Questions
 Can data be used to solve social issues deemed “wicked problems” since the infrastructure of non-profit agencies and government do not have the share data in the same way as business.

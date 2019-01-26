@@ -1,9 +1,9 @@
-# Information Blindness"
+# Information Blindness
 
 
 Team 2 - Matthew Simon and Carlos Lopez
 
-# The Challenge of Big Data: Information Blindness 
+## The Challenge of Big Data: Information Blindness 
 
 ## Topic Overview
 
@@ -35,7 +35,6 @@ This article focuses on organizations innate want to measure their impact and so
 
 ## Key Take-Aways (for Yellowdig)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCLAaiFpWKQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Discussion Questions
 

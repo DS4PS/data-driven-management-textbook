@@ -11,14 +11,16 @@ excerpt_separator: "\n\n\n"  # indicates the end of the excerpt by two blank lin
 show_excerpts: false         # show article previews on the home page instead of headlines
 date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 dark_theme: false            # enables dark mode
-dark_header: false         # uses dark header whether dark_theme is enabled or not
-minimal_theme: true         # radically minimalistic theme
+dark_header: false           # uses dark header whether dark_theme is enabled or not
+minimal_theme: true          # radically minimalistic theme
 
 navigation:                  # show navigation links in the header	
   - index.html	
   - instructions.md
   - markdown.md	
   - about.md
+  - bookdown/docs/DDM.pdf
+  - bookdown/docs/index.html
 
 
 icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/

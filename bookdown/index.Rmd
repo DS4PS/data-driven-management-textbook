@@ -4,9 +4,8 @@ date: "Updated `r format(Sys.time(), '%B %d, %Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-bibliography: [book.bib, packages.bib]
 biblio-style: apalike
-link-citations: yes
+link-citations: no
 description: "This is a course focused on data-driven practices for public sector organizations."
 ---
 
@@ -25,11 +24,3 @@ Welcome to the course.
 
 
 
-
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```

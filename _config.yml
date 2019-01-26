@@ -19,7 +19,6 @@ navigation:                  # show navigation links in the header
   - instructions.md
   - markdown.md	
   - about.md
-  - /bookdown/docs/index.html
 
 
 icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/

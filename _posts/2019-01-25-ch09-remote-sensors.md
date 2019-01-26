@@ -49,7 +49,7 @@ Health and disease is another area where health issues could be identified based
 Behaviors can be signs of an emerging illness and the author points out an app such as Ginger.io that could identify that change in behavior and figure out if an illness is coming.  To take it a step further, the author explains that by crowdsourcing this behavior across a population and then combining that info with data about where and when people went the infection risk area can be figured out.  If this was known then action could be taken to avoid spreading the disease further.  
 
 ## Key Take-Aways (for Yellowdig)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8diu459wAz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Discussion Questions
 
 1)	Traffic, Crime, and video technology are rapidly improving to better predict and identify incidents.   What opportunities or concerns do you find with technology and the data driven approach?    

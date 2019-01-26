@@ -25,7 +25,8 @@ Because the text codes and classifications need to be customized, Meier and his 
 In conclusion, the readings this week explored a number of new concepts, platforms and strategies to analyze a great deal of information in a very short amount of time.  This is critical for digital humanitarian efforts, but will also be increasingly critical and important in our daily lives as Big Data makes it harder to process information in any manual way.  We are truly looking for a needle in a meadow
 
 Yellowdig Link:
-
+https://www.youtube.com/watch?v=GdkNzexkZJw
+https://www.yellowdig.com/user/activity/William/MjEyMzcx
 
 ### Discussion Questions
 Questions:

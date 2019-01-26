@@ -53,6 +53,8 @@ Can Artificial Intelligence verify Big Data?
 No technology can verify information alone. The blend of human “cognition” along with technical processes will deliver the most accurate result.
 To best used data in a crisis situation, being “right is more important than being first”
 
+https://youtu.be/6R7-WXViJHY
+
 ### Discussion Questions
 Does the potential value of big data (social media/crowds sourcing) in crisis situations outweigh the potential false data and misuse of emergency response in crisis situations? 
 

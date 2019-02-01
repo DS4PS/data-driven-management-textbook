@@ -1,6 +1,4 @@
----
-title: "Playing Moneyball with Prediction"
----
+"Playing Moneyball with Prediction"
 
 (Team 5)
 
@@ -22,7 +20,7 @@ It has been made clear that the introduction of data was intended to help the de
 
 ## Chapter Summaries
 
-**Reality mining: Using big data to engineer a better world**
+**Reality Mining: Using Big Data to Engineer a Better World**
 
 **Chapter 6: Optimizing Resource Allocation**
 
@@ -36,7 +34,7 @@ Likewise, Eagle and Greene discuss how Google uses search terms and locations of
 
 Engle and Greene also discuss the potential of how big data and mining its contents has the potential to be a “real-time crystal ball” about health threats. However, they also argue that trust should not be put solely into big data. The data needs to be backed up to validate what is actually happening on the ground, which could be accomplished through surveys delivered to people in the affected areas. 
 
-**Weapons of Math Destruction: How big data increases inequality and threatens democracy**
+**Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy**
 
 **Chapter 1: Bomb Parts**
 
@@ -57,6 +55,7 @@ The focus of this chapter is on the overall fairness of the algorithms and formu
 In chapter 8, O’Neil takes us further down the scary path of Big Data and its impact on the finance landscape. Be it borrowing and buying or getting hired and promoted, data analytics and number crunching often have more to do with these decisions than we realize. Just as would-be criminals were identified by data algorithms as probable offenders, lending data algorithms offer the same type of ‘probability bucket’ linking potential borrowers with others that have similar data points. O’Neil references this as the “Birds of a Feather” approach, meaning that subjects who exhibit similar qualities are assumed to have other qualities in common. If everyone in your zip code that drives the same model car and makes the same salary range default on their mortgage payments, then its is inferred that you will too- its simple association by data points.  And while many may point to the truism in this concept, the bigger picture is that computers can only account for so much. They cannot see the nuances. The data produces a general picture but cannot account for the finer details of context, situation, or common sense. The rub is that we as a society have essentially come full circle as data collection was inteneded as a means to incorporate fairness and equality, eliminating judgements on race and religion. But the overuse of data and the resulting typecasting has introduced unintentional consequences by being unforgivingly flawed and lacking human reasonability. 
 
 ## Key Take-Aways (for Yellowdig)
+https://youtu.be/Q8SFAbqHYu4
 
 ### Discussion Questions
 
@@ -68,9 +67,9 @@ In chapter 8, O’Neil takes us further down the scary path of Big Data and its 
 
 4 – Should the industry of big data be regulated? Meaning, should companies that collect and sell people’s data be given a set of rules and industry guidelines to be held accountable to, including to allow people transparency to see what is being collected about them and have the ability to change things that are incorrect? 
 
-5. What role do you think data algorithms should play in our day to day life? Is there a level to which you feel it is appropriate? When is it too much? 
+5 - What role do you think data algorithms should play in our day to day life? Is there a level to which you feel it is appropriate? When is it too much? 
 
-6. Have you experienced a situation where data was used to confirm or refute a decision that resulted in others being negatively impacted? (The proverbial collateral damage) 
+6 - Have you experienced a situation where data was used to confirm or refute a decision that resulted in others being negatively impacted? (The proverbial collateral damage) 
 
 ## References
 

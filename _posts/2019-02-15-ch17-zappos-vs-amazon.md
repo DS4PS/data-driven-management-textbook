@@ -25,4 +25,5 @@ title: "A Tale of Two Management Systems"
 * O'Neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy. Broadway Books. **CH7 sweating bullets**  
 * Kantor, J. & Streitfeld, D. “Inside Amazon: Wrestling Big Ideas in a Bruising Workplace.” The New York Times, August 15, 2015.
 “Zappos: A Workplace Where No One And Everyone Is The Boss.” NPR, July 21, 2015. [ PODCAST ](https://www.npr.org/2015/07/21/421148128/zappos-a-workplace-where-no-one-and-everyone-is-the-boss)  
-* Taylor, B. “Why Zappos Pays Employees to Quit, and You Should Too.” Harvard Business Review, May 19, 2008. [ LINK ](https://hbr.org/2008/05/why-zappos-pays-new-employees)  
+* Richard Feloni (Feb 19, 2016). “A former Zappos manager explains how her job changed after the company got rid of bosses.” Business Insider. [ LINK ](https://www.businessinsider.com/zappos-explains-how-her-job-radically-changed-after-switch-to-holacracy-2016-2)
+

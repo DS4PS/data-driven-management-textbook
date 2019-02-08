@@ -8,11 +8,11 @@ title: "Building Effective Teams"
 The readings this week spent a great deal of time discussing social learning, idea flow, and happiness and the impact it has on productivity in the workplace, and the role that leaders can play to foster this culture. 
 
 ## Chapter Summaries
-Building Effective Teams 
+ 
 Team 1 
 William Seeley
 Lauren Zajac
-Overviews and Summaries of Readings
+
 
 •	Social Physics: CH3 idea flow
 •	SCRUM: CH7 happiness 
@@ -28,8 +28,6 @@ Duhigg presents concrete examples of these successful work cultures in Chapter 5
 Finally, Pentland discusses the ways leaders can improve idea flow and thus improve performance in Chapter 6, “Shaping Organizations”.  He argues that managers need to move away from managing organizational charts, and become managers who monitor, foster and encourage idea flow by increasing interactions (p. 106).  Making group members aware of the patterns of communication between and within groups is very important.  Frequent interactions and engagement creates a shared understanding of what needs to be changed, and there is social pressure for the team to adopt these “agreed upon patterns” (p. 106).  Innovation is another driver of performance, and managers can help encourage innovation by helping to forge diverse connections between diverse team members to establish a number of connections (p. 107).  Cooperation is key with engagement, and everyone needs to share and contribute equally (p. 111).  Some managers and teams have even begun to use new tools to visualize group patterns and interactions to ensure team cohesion and cooperation, using sociometric feedback tools (p. 116).  These tools allow teams to visualize their cooperation and ensure a good idea flow and improve the social intelligence of the group (p. 113).  Finally, Pentland explores the personal influence of leadership, and the practical charisma of effective leaders who are both “energetic and systematically engage with others, to grow the interaction patterns in the right direction” (p. 117).  He describes these leaders as “charismatic connectors” who show a genuine interest and curiosity in everyone and everything, and make people feel good (p. 118).  This behavior and leadership trait can be learned as people pay attention to new ideas, bounce those ideas off others to see their reaction, and try to expand social networks to gather as many diverse ideas as possible (p. 118).  
 In conclusion, managers and leaders can play an important role in shaping the cultures of their workplaces to encourage social learning, idea flow, and happiness.   As managers, it is imperative that we learn how to create, sustain, and encourage these connections and interactions, as they are key to creating high performing, productive teams.  
 
-
-Questions
 
 
 

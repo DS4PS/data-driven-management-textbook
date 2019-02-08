@@ -40,6 +40,9 @@ In conclusion, managers and leaders can play an important role in shaping the cu
 
 ## Key Take-Aways (for Yellowdig)
 
+https://voicethread.com/share/12098991/
+
+
 ### Discussion Questions
 
 1.	Duhigg states that happiness is fostered when employees have the “ability to control their own destiny, the feeling that they are getting better at a task, and knowing that they are serving something bigger than themselves” (p. 153).  What are some ways that you can structure your team and assignments to encourage happiness?

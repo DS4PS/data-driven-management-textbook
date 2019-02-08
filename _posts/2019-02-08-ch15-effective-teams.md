@@ -15,11 +15,11 @@ William Seeley
 Lauren Zajac
 
 
-•	Social Physics: CH3 idea flow 
+•	Social Physics: CH3 idea flow  
 •	SCRUM: CH7 happiness  
-•	Social Physics: CH5 collective intelligence 
-•	Smarter faster better: The secrets of being productive. CH5 managing others  
-•	Social Physics: CH6 shaping organizations 
+•	Social Physics: CH5 collective intelligence  
+•	Smarter faster better: CH5 managing others  
+•	Social Physics: CH6 shaping organizations  
 
 The readings this week spent a great deal of time discussing social learning, idea flow, and happiness and the impact it has on productivity in the workplace, and the role that leaders can play to foster this culture. As managers, it is imperative that we learn how to create, sustain, and encourage these connections and interactions, as they are key to creating high performing, productive teams.  Managers also need to ensure that they are creating happiness in their workforce, as happy people are more productive at work at home and in their personal life.  Finally, the readings ended with an evaluation of workplace culture, and the research behind the commitment culture.   This is a culture where employees know that the organization is committed to them, and they are committed to the success of the organization.   We end the discussions this week with an examination of the strategies leaders can use to foster connections and develop teams who excel at collaboration, idea flow and are be happy.
 

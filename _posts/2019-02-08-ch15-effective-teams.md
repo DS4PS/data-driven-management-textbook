@@ -38,7 +38,8 @@ In conclusion, managers and leaders can play an important role in shaping the cu
 
 
 
-## Key Take-Aways (for Yellowdig)
+## Key Take-Aways 
+Voicethread link:
 
 https://voicethread.com/share/12098991/
 

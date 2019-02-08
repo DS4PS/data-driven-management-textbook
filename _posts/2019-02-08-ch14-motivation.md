@@ -102,11 +102,9 @@ Key Takeaways:
 Building a culture of commitment and trust is key when a great idea comes along. “The biggest mistake is when there is never an opportunity for an employee to make a mistake.” 
 
 
-
-
 ## Key Take-Aways (for Yellowdig)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l5lZEMCQRXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+https://youtu.be/l5lZEMCQRXc 
 
 #### What Motivates Us: 
 This article is an interview with Daniel Pink regarding his book titled Drive:  The Surprising Truth About What Motivates Us.    He says the carrot & stick motivation concept doesn’t work for business.  He states Managers should motivate their members by giving them a “sense of making progress.”  This can be done by helping our members see their progress, by recognizing it, celebrating it, and keeping people on a path towards making more progress.  He also says it’s a combination of intrinsic and extrinsic motivation factors that keeps people motivated.  He firmly believes members should be paid enough so that one can entirely focus on work and not worry about money.  Pink said the writing and research he did for his new book has changed his work habits by establishing helpful measures to making progress for himself.  He developed daily work habits such as a monthly “do it yourself performance review” and he also asks himself every night if he was better today than yesterday.  His answer is usually “no”.  He says he doesn’t answer “no” two nights in a row because he subconsciously wants a better day after the next day, so this daily questioning of himself improves his life.     

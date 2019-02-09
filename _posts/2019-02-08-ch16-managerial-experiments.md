@@ -28,6 +28,8 @@ One thing that I think should be challenged was the notion of human interest and
 
 ## Key Take-Aways (for Yellowdig)
 
+<iframe width="560" height="315" src="https://youtu.be/EZL5esf6Ios" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Discussion Questions
 
 1.	Eagle and Greene provided a workplace example about Tacit a system that analyzes employees’ work and communication behavior (including emails), helping them to make new connections with each other and improve sharing of knowledge to improve communication and efficiency.  Does your workplace have a similar system like this or would you be interested in participating in one?

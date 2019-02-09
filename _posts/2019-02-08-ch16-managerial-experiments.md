@@ -28,7 +28,7 @@ One thing that I think should be challenged was the notion of human interest and
 
 ## Key Take-Aways (for Yellowdig)
 
-<iframe width="560" height="315" src="https://youtu.be/EZL5esf6Ios" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EZL5esf6Ios" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Discussion Questions
 

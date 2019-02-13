@@ -5,7 +5,6 @@ title: "Manipulating Crowds"
 (Team 4)
 
 
-# A Tale of Two Data-Driven Management Systems: Amazon and Zappos 
 
 ## Topic Overview
 

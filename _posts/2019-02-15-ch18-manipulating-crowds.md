@@ -4,25 +4,100 @@ title: "Manipulating Crowds"
 
 (Team 4)
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoXmqzvF30I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Topic Overview
 
+History is filled with stories of the old salesman that would enter town and then sell snake oil or other mysterious elixirs that promise to cure any and all ailments. Even further back are those that proclaimed to be purveyors of religious relics. In 1957 the musical “The Music Man” was released that detailed the story of a predatory salesman that entered a small town, found out about the people, that they had a new pool table, and then exploited that data to sell musical instruments for a boy’s band. 
+
+While the methods really haven’t changed, the tactics have become more sophisticated. Predatory salespeople are using big data to identify, manipulate, and take advantage of people - usually those that are poor, ignorant, or in desperate circumstances. Joanna Redden authored an article identifying six ways that big data is harming society (Redden, 2017). She lists those as:
+
+  1. Targeting based on vulnerability
+  2. Misuse of personal information
+  3. Discrimination
+  4. Data Breaches
+  5. Political manipulation and social harm
+  6. Data and system errors
+
+**Vulnerability:** 
+Predatory marketing sought to target those that were vulnerable long before big data. Sales or marketing people, past and present, customize their message and apply pressure to those that may be the most desperate circumstances. This could be an auto mechanic in a small town inflating prices because a person needs their car fixed right away, weight loss pills, or debt consolidation. Big data has allowed businesses to profile and find those that are desperate for help and then prey upon them.
+
+**Misuse:**
+In 2009, Intuit the parent company of TurboTax and Quicken financial software packages, acquired Mint, a web-based financial planning software. With that Intuit acquired the budgets, the spending habits, and financial goals for Mint’s “1.5 million users tracking nearly $50 billion in assets and $200 billion in transactions” (Wortham, 2009). With that information combined with information that it has already collected through TurboTax and Quicken, Intuit has the potential for an incredible depth of information regarding people’s finances. They are even asking users to share their data for services such as credit card offers and student loan refinancing. Even without permission there is very little that can stop Intuit from using the data to profile people or sell their data to other businesses.
+
+**Discrimination:**
+“A 2017 investigation by ProPublica and Consumer Reports showed that minority neighbourhoods pay more for car insurance than white neighbourhoods with the same risk levels” (Redden, 2017). Data from social media and census records can provide a glimpse into a predominant demographic of particular neighborhoods. That information is used to profile and discriminate regarding the availability and cost of goods and services. The use of digital fingerprints and facial recognition further adds data that categorizes people.
+
+**Data Breach:**
+In 2017, Equifax, one of the three national credit reporting agencies reported to the Federal Trade Commission of a data breach that “exposed the sensitive personal information of 143 million Americans” (FTC, 2017). What’s even more concerning is that the guilty party has yet to be found (Fazzini, 2019). Credit reporting agencies hold a tremendous amount of personal information. There is a tremendous risk if holders of sensitive data is subject to data breaches.
+
+**Political Manipulation:**
+The readings consisted of Cambridge Analytica and how it profiled people using social media and played a role in the 2016 presidential elections. Additionally, and whether or not it helped, Clinton used data and an algorithm named Ada that was relied upon to identify states and counties that would play a critical role in campaigning (Wagner, 2016).
+
+**Data and System Errors:**
+The role of data is only as good as the analysis and interpretation. Both Trump and Clinton used data and computer algorithms to improve the efficiency of their campaign time. However, it is only as good as the programmers make it to be. “Like much of the political establishment {Clinton’s} Ada appeared to underestimate the power of rural voters in Rust Belt states” and ultimately downplayed the importance of Wisconsin and Michigan which Clinton didn’t make an effort and lost (Wagner, 2016).
+
+The use of Big Data has only sharpened the tools that markets use to be able to target individuals. “This [Big Data] establishes a powerful basis for legitimate ad campaigns, but it also fuels their predatory cousins: ads that pinpoint people in great need and sell them false or overpriced promises” (O’Neil, 2016, p.70).
+
+Our readings this week come primarily from Weapons of Math Destruction and the harm that big data is causing to society. Chapters 4 and 10 of Weapons of Math Destruction go into detail on many of Ms Reddin’s six aspects. The article The Data that Turned the World Upside Down details how Cambridge Analytica and big data was used to influence the presidential election in 2016.
 
 ## Chapter Summaries
+
+### Weapons of Math Destruction, Chapter 4: Propaganda Machine, Online Advertising
+
+Highlights the practices of for-profit colleges/universities that spend millions of dollars in recruitment, promise a student free money (federal student loans) and lock them into a student loan that the person can’t repay with a diploma that is next to worthless.  Research done by CALDERA/American Institutes for Research created 9,000 fictitious resumes. Some with high school diplomas, some with community college degrees, and others with degrees from for-profit colleges/universities. They sent these fictitious resumes out to job postings and measured the response. They found that diplomas from the for-profit colleges were worth less than community colleges and about the same as a high school diploma. (O’Neil, 2016, p.80)
+
+O’Neil discusses how these colleges utilize Big Data to either generate or purchase leads for targeted marketing.  Increasingly, such entities are using the internet to identify prospective student’s personal habits and unmet needs to produce marketing aimed at addressing his/her apparent vulnerabilities.  Unfortunately, this leads to predatory tactics which exploit vulnerable populations.  The wealth gap is related to this practice of predatory sales where “the bottom 40 percent … has a net debt of $14,800, much of it in extortionate credit card accounts” (O’Neil, 2016, p.81). “They sell them the promise of an education and a tantalizing glimpse of upward mobility - while plunging them deeper into debt” (O’Neil, 2016, p.81).
+
+Even worse, the for-profit colleges are teaching employees to leverage this information to secure paying students.  “A 2012 Senate committee report on for-profit colleges described Vatterott’s [a career-training institute] recruiting manual… It directs recruiters to target ‘Welfare Mom w/Kids. Pregnant Ladies. Recent Divorce. Low Self-Esteem. Low Income Jobs…” (O’Neil, 2016, p. 72).  The list continues to name other populations.  Other colleges acquire leads from third-parties and immediately begin phone-based outreach campaigns to secure new students, especially those likely to be eligible for federally backed student loans.  
+
+The Big Data ad campaigns grow in sophistication as they continually test alternative ads for success. Successful campaigns are measured by clicks and other lead generation tools.  They are further refined and retried against alternate campaigns until the optimal messaging is achieved.  This testing and refining is often conducted by intelligent machines, “The algorithm finds patterns on its own, and then, through time, connects them with outcomes.  In a sense, it learns” (O’Neil, 2016, p. 75).  
+
+### Weapons of Math Destruction, Chapter 10: The Targeted Citizen, Civic Life
+
+O’Neil shares the story of how Facebook researchers have utilized the social media giant’s algorithms to refine individual’s feeds and test their subsequent posts.  They altered filters to reveal either more positive or or more negative posts and observed subsequent activity.  They found this alteration lead to corresponding increases in positive activity for those receiving positive feeds and the opposite for those receiving more negative feeds.  O’Neil notes people on Facebook don’t understand that their news feeds are being manipulated. Many think that they are seeing everything that their friends are posting (O’Neil, 2016, p.183).
+
+Beyond Facebook manipulation, data gives political campaigns the data they need to be even more meticulous in their direct messages and in a way where they can be multiplicitous in speech and be more likely to get away with it (O’Neil, 2016, pg.187-188). Rayid Ghani performed an experiment with Accenture Laboratories in Chicago where he studied the shopping habits of people in a grocery store. By doing this, he was able to identify groups of shoppers that catered to discounts, were prone to advertisements, were impulse shoppers, or that shopped organic produce. Using this data, he could predict how many people could be influenced in their shopping habits, and then customized a marketing message. He then took it a step further and adapted his experiment politically for the 2012 Presidential campaign.  He published outreach on LinkedIn, recruiting other data scientists to “help guide election strategy” (O’Neil, 2016, p.188). He and his team refined data mapping techniques originating in the grocery store marketing aimed at converting shoppers sitting on the proverbial fence.  In this way, he ended up identifying and marketing up to 15 million swing voters (O’Neil, 2016, pg.189-190).
+
+The chapter also describes how similar micro-targeting is used in campaign financing.  Data scientists are able to utilize information mined from massive datasets to profile potential donors.  They refine the messaging for these targets, hoping to entice donations and avoid offending their particular sensibilities.  In this way, politicians may be more open and candid with certain donors without offending other populations who will never know the candid tale.  Data is not only used for campaigns but to “deliver ideological bombs that politicians will only hint at on the record” (O’Neil, 2016, p.194). 
+
+Deep dossiers are kept on everyone and are used to influence shopping, political campaign, ideologies, a frankly shape the decisions that we make in our lives.
+
+### The Data that Turned the World Upside Down
+
+Cambridge Analytica is a Big Data marketing company which has been associated with President Trump’s election campaign and Great Britain’s exit from the European Union (Brexit).  While the Big Data analysts in President Obama’s re-election campaign were said to have developed micro-targeted marketing based on supermarket research, Cambridge Analytica was claimed to have developed personality and preference based profiles of all adults in the U.S., using the data for very targeted electronic marketing during the 2016 presidential election.  
+
+Alexander James Ashburner Nix, spokesperson for Cambridge Analytica, says of their marketing strategy, “Cambridge Analytica buys personal data from a range of different sources, like land registries, automotive data, shopping data, bonus cards, club memberships, what magazines you read, what churches you attend… in the U.S. almost all personal data is for sale” (Grassegger, 2017). The company then matches this data and aligns with voter information and the personality profile to identify the target market.  Specific campaign ads are then developed and launched to play on the profile of the individual as expressed through their revealed preferences.  Voters are typically unaware they are receiving this narrow and very targeted marketing.  They simply believe the candidate to be well aligned with their beliefs and needs.
 
 
 ## Key Take-Aways (for Yellowdig)
 
+Increasingly, Big Data is being used to profile individuals based upon their demographics, purchasing habits, social-media presence, known associates, and other readily available information.  In many ways, Big Data is being used to enhance the world in which we live.  Unfortunately, it is also being used in ways unknown to most of the population to manipulate everything from elections to college attendance through micro-targeted (personalized) marketing.  Individuals often believe they are receiving the same message as everyone else and do not realize their specific vulnerabilities are being targeted by the modern version of snake-oil salesmen.
+
 ### Discussion Questions
 
+1. What is the best mechanism for oversight of the micro-targeted marketing practices in the for-profit college business? No oversight? Further restrictions on federal funding? Public outcry? Other methods?
+
+2. There is a national student loan debt of $1.5 trillion across 44 million people with 10.7% in default (Friedman, 2018). It appears that much of the US student loan debt is from federal funding and linked to degrees with little market value. With the predatory nature of “for-profit” colleges and their lack of value according to O’Neil in Chapter 4 of Weapons of Math Destruction, should student loan availability to “for-profit” colleges and universities be tied to performance value of the degree? To what standard?
+
+3. How can individuals be trained to recognize the signs that they are the subject of micro-targeted marketing?  Further, how can you avoid being biased by such messaging?
+
+4. Should politicians in the American political system be subject to regulations regarding the disclosure of micro-targeted marketing tools used in their campaigns. 
 
 
 ## References
 
-* O'Neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy. Broadway Books. **CH4 propaganda machine**  
-* O'Neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy. Broadway Books. **CH10 targeting citizens**  
-* Grassegger & Krogerus (2017). The data that turned the world upside down. Motherboard Jan 28 2017. [ LINK ](https://publicpolicy.stanford.edu/news/data-turned-world-upside-down)  
+*  Fazzini, Kate. (2019, Feb. 13). The great Equifax mystery: 17 months later, the stolen data has never been found, and experts are starting to suspect a spy scheme. CNBC. Retrieved 2/14/2019 from: [LINK](https://www.cnbc.com/2019/02/13/equifax-mystery-where-is-the-data.html)
+*  Federal Trade Commission (FTC). (2017-2018). The Equifax Data Breach. Retrieved 2/14/2019 from: [LINK](https://www.ftc.gov/equifax-data-breach)
+*  Friedman, Zach (2018, June 13). Student Loan Debt Statistics In 2018: A $1.5 Trillion Crisis. Retrieved 2/14/2019 from: [LINK](https://www.forbes.com/sites/zackfriedman/2018/06/13/student-loan-debt-statistics-2018/#7b9baf2d7310)
+*  Grassegger & Krogerus (2017). The data that turned the world upside down. Motherboard Jan 28 2017. [LINK](https://publicpolicy.stanford.edu/news/data-turned-world-upside-down) 
+*  O’Neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy. Broadway Books. **CH4 propaganda machine**
+*  O’Neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy. Broadway Books. **CH10 targeting citizens**
+*  Redden, Joanna (2017, Dec. 7). Six ways (and counting) that big data systems are harming society. Retrieved 2/14/2019 from: [LINK](http://theconversation.com/six-ways-and-counting-that-big-data-systems-are-harming-society-88660)
+*  Wagner, John (2016, Nov. 9). Clinton’s data-driven campaign relied heavily on an algorithm named Ada. What didn’t she see? - Washington Post. Retrieved 2/14/2019 from: [LINK](https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/?utm_term=.75c490ac2102)
+*  Wortham, Jenna (2009, Sep. 14). Intuit Buys Mint, a Web-Based Finance Competitor. New York Times. Retrieved 2/14/2019 from: [LINK](https://www.nytimes.com/2009/09/15/technology/internet/15mint.html)
+
+
 
 
 

@@ -1,10 +1,7 @@
----
-title: "A Tale of Two Management Systems"
----
-
-Marcela Morales and Joseph Lynch
-
 # A Tale of Two Data-Driven Management Systems: Amazon and Zappos 
+
+Team 3: Marcela Morales and Joseph Lynch
+
 
 ## Topic Overview
 The articles below examine the use of data and their effects on management. From the tightly controlled business at Amazon to the more freely run Zappos, these articles attempt to show the use of data on measuring employee effectiveness, employee retention, and morale. Both Amazon and Zappos are highly successful, but each has a very different philosophy. These different environments are even more strange since Amazon owns Zappos!

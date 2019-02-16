@@ -21,7 +21,7 @@ In the third section, a review of the testing of students and monitoring of teac
 
 “Zappos: A Workplace Where No One And Everyone Is The Boss.” NPR, July 21, 2015. PODCAST
 
-This article discusses the idea of “holocracy” and how it was successfully implemented at the Zappos company. The idea behind it was to create more autonomy in the employees while maintaining the small-firm culture in a big-firm environment.  Holocratic governance is compared to cell biology. Each of your cells works on its own without asking other cells for permissions to do anything. He seeks adaptability and nimbleness in his companies that focuses on the groups interests and not individual interests. This workplace is more employee centered with the idea that happy employees have a “trickle down” effect when it comes with handling customer requests. 
+This article discusses the idea of “holacracy” and how it was successfully implemented at the Zappos company. The idea behind it was to create more autonomy in the employees while maintaining the small-firm culture in a big-firm environment.  Holacratic governance is compared to cell biology. Each of your cells works on its own without asking other cells for permissions to do anything. He seeks adaptability and nimbleness in his companies that focuses on the groups interests and not individual interests. This workplace is more employee centered with the idea that happy employees have a “trickle down” effect when it comes with handling customer requests. 
 
 Richard Feloni (Feb 19, 2016). “A former Zappos manager explains how her job changed after the company got rid of bosses.” Business Insider. LINK
 
@@ -32,13 +32,13 @@ Two companies, Amazon and Zappos have entirely different cultures, but both have
 
 At Amazon, the corporate culture uses statistical and employee-initiated data to improve performance. Employees can a report other employees anonymously when they think they are not working hard enough. Turnover is high, the stress is high, and the ability for employees to sabotage one another is high.  The culture brings in highly ambitious employees who work as rivals to achieve results. The articles paint Amazon as a very tough culture in which to succeed and quite unforgiving. Even with this tough work environment, Amazon has become the largest retailer in the world. 
 
-Zappos is a company that believes that happiness of the employees leads to happiness of the customer. Zappos does not use a hierarchal approach, rather, they use “holocracy” which gives employees autonomy to make decisions that create Wow moments for their customers. Zappos has no managers, they use teams to make decisions and most closely resemble the SCRUM approach. Zappos has grown significantly and is also quite successful.  Zappos invests in employee culture and dedicates 4 weeks of “boot-camp” for every new employee. Zappos, in terms of culture, is the exact opposite of Amazon. Surprisingly, Amazon owns Zappos.  
+Zappos is a company that believes that happiness of the employees leads to happiness of the customer. Zappos does not use a hierarchal approach, rather, they use “holacracy” which gives employees autonomy to make decisions that create Wow moments for their customers. Zappos has no managers, they use teams to make decisions and most closely resemble the SCRUM approach. Zappos has grown significantly and is also quite successful.  Zappos invests in employee culture and dedicates 4 weeks of “boot-camp” for every new employee. Zappos, in terms of culture, is the exact opposite of Amazon. Surprisingly, Amazon owns Zappos.  
 
 
 ### Discussion Questions
 Discussion Question: Do the risks of bad data or assumptions outweigh the benefits of using data to identify workplace effeciencies or employee performance?
 
-Discussion Question: Would holocracy, where there is no management, and a design that emphasizes autonomy and self-governance work in your agency? How would this benefit your Agency and what risks would it bring?
+Discussion Question: Would holacracy, where there is no management, and a design that emphasizes autonomy and self-governance work in your agency? How would this benefit your Agency and what risks would it bring?
 
 
 ## References

@@ -20,7 +20,7 @@ While the methods really haven’t changed, the tactics have become more sophist
   6. Data and system errors
 
 **Vulnerability:** 
-<img align="right" src="/data-driven-management-textbook/images/Targets.png">
+<img align="right" src="/data-driven-management-textbook/images/Targets.PNG">
 
 Predatory marketing sought to target those that were vulnerable long before big data. Sales or marketing people, past and present, customize their message and apply pressure to those that may be the most desperate circumstances. This could be an auto mechanic in a small town inflating prices because a person needs their car fixed right away, weight loss pills, or debt consolidation. Big data has allowed businesses to profile and find those that are desperate for help and then prey upon them.
 

@@ -36,9 +36,9 @@ Zappos is a company that believes that happiness of the employees leads to happi
 
 
 ### Discussion Questions
-Discussion Question: Do the risks of bad data or assumptions outweigh the benefits of using data to identify workplace effeciencies or employee performance?
+Discussion Question 1: Do the risks of bad data or assumptions outweigh the benefits of using data to identify workplace effeciencies or employee performance?
 
-Discussion Question: Would holacracy, where there is no management, and a design that emphasizes autonomy and self-governance work in your agency? How would this benefit your Agency and what risks would it bring?
+Discussion Question 2: Would holacracy, where there is no management, and a design that emphasizes autonomy and self-governance work in your agency? How would this benefit your Agency and what risks would it bring?
 
 
 ## References

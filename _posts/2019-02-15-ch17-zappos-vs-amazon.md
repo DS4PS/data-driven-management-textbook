@@ -1,6 +1,13 @@
-# A Tale of Two Data-Driven Management Systems: Amazon and Zappos 
+---
+title: "Amazon vs Zappos"
+---
+
+
+
 
 Team 3: Marcela Morales and Joseph Lynch
+
+**A Tale of Two Data-Driven Management Systems: Amazon and Zappos**
 
 
 ## Topic Overview

@@ -1,6 +1,6 @@
 --- 
 title: "Data Analytics for the Public Good"
-date: "Updated `r format(Sys.time(), '%B %d, %Y')`"
+date: "Spring 2019"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book

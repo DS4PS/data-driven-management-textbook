@@ -9,6 +9,7 @@ Team 4 - Lindsey Duncan and Justin Stoker
 
 
 ## Topic Overview
+
 According to the Pew Research Center, 95% of all adults own some form of a cell phone and as many as 77% of those are smart phones (Mobile Fact Sheet, 2018). Verizon has recently announced their intent to shutdown their 2G and 3G data streams on December 31, 2019, effectively pushing people to 4G or the emerging 5G technology for mobile data (Morris, 2018). Smart phones are just one of the many tools that collect and report anonymous data based upon its user’s location, social activities, financial transactions, browsing history, and information searches. This data is collected and passed through algorithms such as Apple’s Siri, Google Maps and Google AdWords to help predict a user’s schedule, interests, traffic patterns and delays, shopping habits, and more. Big Data is being collected all the time and often without the knowledge of the individual contributors of that data. This section discusses the Challenges of Big Data: Ethics and Privacy.
 
 Whether it is the GPS on a cell phone, traffic cameras, license plate readers, macroscopic infrared imaging, or each other, we are becoming increasingly aware of the amount of information that is being collected about our individual lives. To quote the old English saying, “just because we can, doesn’t mean we should.” This is an example where technology is outpacing policy makers – where policy makers are often just as oblivious to the what’s happening as everyone else.
@@ -26,12 +27,15 @@ It is important to discuss the ethics and privacy concerns that come about from 
 While the data collection, in general, benefits everyone by helping with traffic or travel time prediction, allowing your phone to store hours of your favorite stores, sports scores or news from your favorite teams, people have begun to express concern about the use or the public exposure of their personal data for reasons not in the public good. The book Social Physics establishes the social nature of individuals and groups and makes the point how information is passes through those social networks. Currently, social media is used extensively for everything from sharing personal updates, to business marketing, to news and press releases. Even in a book that argues the virtues of the sharing of ideas through social networks, Social Physics acknowledges, “Maintaining protection of personal privacy and freedom is critical to the success of any society” (Pentland, 2015 p. 17).
 
 ## Chapter Summaries
+
 ### Data that turned the world upside down
+
 This article is about an individual researcher named Michal Kosinski and a Big Data company called Cambridge Analytica.  Kosinski’s research in the field of psychometrics (measuring psychological traits) led to the development of algorithms associating a person’s Facebook likes to the OCEAN (openness, conscientiousness, extroverted, agreeableness, neuroticism) personality instrument.  Kosinski found a person’s digital footprint to be extremely predictive of not only personality, but also other preferences.  Though Kosinski was positive about the uses of his research, he worried about the potential ramifications.  “What would happen, wondered Kosinski, if someone abused his people search engine to manipulate people? He began to add warnings to most of his scientific work. His approach, he warned, ‘could pose a threat to an individual’s well-being, freedom, or even life’ ” (Grassegger, 2017).
 
 Kosinski was concerned when he discovered the work of Cambridge Analytica which has been associated with President Trump’s election campaign and Great Britain’s exit from the European Union (Brexit).  Cambridge Analytica was claimed to have profiled all adults in the U.S., using the data for very targeted electronic marketing during the 2016 presidential election.  Xx Nix, spokesperson for Cambridge Analytica’s marketing strategy, “Cambridge Analytica buys personal data from a range of different sources, like land registries, automotive data, shopping data, bonus cards, club memberships, what magazines you read, what churches you attend… in the U.S. almost all personal data is for sale”(Grassegger, 2017). The company then matches this data and aligns with voter information and the personality profile to identify the target market.
 
 ### Eye in the Sky Podcast
+
 <img align="right" src="../images/comment1.jpg">
 
 Theme is the availability of the data can do a lot of good things, like solve murders, property crimes, etc. but on the other hand there are those that call it a “grotesque violation of privacy” (Eye in the Sky). At what point can public data be taken by a person to track down a cheating spouse? When can it be abused, where do the lines exist?
@@ -96,8 +100,4 @@ The United States needs a data protection standard that encourages respect of pe
 
 * Pentland, A. (2015). Social Physics. Penguin Books. p 17
 
-* Header image "cybersecurity" By Titima Ongkantong/Shutterstock.com
-
-  
-
-
+* Header image "cybersecurity" By Titima Ongkantong/Shutterstock.com 

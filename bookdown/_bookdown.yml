@@ -20,7 +20,9 @@ rmd_files: [
 	"ch16.md",
 	"ch17.md",
 	"ch18.md",
-	"ch19.md" ]
+	"ch19.md",
+	"ch20.md",
+	"ch21.md" ]
 language:
   ui:
     chapter_name: "Chapter "

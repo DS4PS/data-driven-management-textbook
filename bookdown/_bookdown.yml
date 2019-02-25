@@ -1,15 +1,28 @@
 book_filename: "DDM"
-# rmd_files: ["index.Rmd", "01-intro.Rmd", "04-application.Rmd"]
+before_chapter_script: _rmarkdown_settings.R
 rmd_files: [
 	"index.Rmd",
 	"ch01.Rmd",
 	"ch02.Rmd" ,
 	"ch03.Rmd",
 	"ch04.Rmd",
-	"ch05.Rmd"  ]
+	"ch05.Rmd",
+	"ch06.md",
+	"ch07.md",
+	"ch08.md",
+	"ch09.md",
+	"ch10.md",
+	"ch11.md",
+	"ch12.md",
+	"ch13.md",
+	"ch14.md",
+	"ch15.md",
+	"ch16.md",
+	"ch17.md",
+	"ch18.md",
+	"ch19.md" ]
 language:
   ui:
     chapter_name: "Chapter "
-delete_merged_file: false
-output_dir: ""
-before_chapter_script: "_rmarkdown_settings.R"
+delete_merged_file: true
+output_dir: "docs"

@@ -40,14 +40,14 @@ This text is meant to provide a broad overview of these topics, broken out into 
 
 
 
-## Authors
+# Authors {-}
 
 The following students in the course have contributed the chapter summaries and best practice overviews. 
 
 
 1. Lindsey Duncan 
-1. Rachael Goodwin  
-1. Erin Hart  
+1. Rachael Goodwin 
+1. Erin Hart 
 1. Thomas Kolwicz 
 1. Carlos Lopez 
 1. Joseph Lynch 

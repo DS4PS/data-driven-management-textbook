@@ -8,9 +8,11 @@ bookdown::gitbook:
       after: |
         <li><a href="www.asu.edu" target="blank">ASU</a></li>
     edit: https://github.com/DS4PS/data-driven-management-textbook/tree/master/bookdown/%s   
-    download: ["pdf"]
+    download: ["pdf","epub"]
 bookdown::pdf_book:
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: no
-# bookdown::epub_book: default
+  includes:
+    in_header: preamble.tex
+bookdown::epub_book: default
